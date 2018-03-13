@@ -19,18 +19,11 @@
     </div>
   </a>
   <ul class="NavigationList">
-    <li class="NavigationList__item">
-      <a href="#" class="NavigationList__link">Objectifs</a>
-    </li>
-    <li class="NavigationList__item">
-      <a href="#" class="NavigationList__link">L'équipe</a>
-    </li>
-    <li class="NavigationList__item">
-      <a href="#" class="NavigationList__link">Lieux</a>
-    </li>
-    <li class="NavigationList__item">
-      <a href="#" class="NavigationList__link">Programme</a>
-    </li>
+    {{ range sort .Site.Menus.main }}
+      <li class="NavigationList__item">
+        <a href="{{ .URL }}" class="NavigationList__link">{{ .Name }}</a>
+      </li>
+    {{ end }}
     <li class="NavigationList__item">
       <a href="#" class="Button">Inscription</a>
     </li>

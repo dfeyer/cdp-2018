@@ -3,8 +3,22 @@ languageCode = "fr-ch"
 theme = "perma"
 title = "CDP Vaud-Valais 2018"
 
-[params]
-  author = "Dominique Feyer"
-  info = "Full Stack DadOps and Content Freak"
-  description = "Dominique Feyer's personal website"
-  keywords = "blog,developer,personal,php,elixir,neoscms"
+[[menu.main]]
+    name = "Objectifs"
+    weight = 1
+    url = "/objectifs"
+
+[[menu.main]]
+    name = "L'équipe"
+    weight = 2
+    url = "/equipe"
+
+[[menu.main]]
+    name = "Les lieux"
+    weight = 3
+    url = "/lieux"
+
+[[menu.main]]
+    name = "Programme"
+    weight = 4
+    url = "/programme"

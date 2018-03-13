@@ -430,7 +430,7 @@ p {
   width: calc(100% + 4rem);
   margin: 2rem -4rem 0 -4rem; }
   .InlineFigure__image {
-    width: 100%;
+    width: calc(100% + 4rem);
     height: auto; }
   .InlineFigure__caption {
     position: absolute;

@@ -1,0 +1,20 @@
+image: jojomi/hugo:0.37
+
+test:
+  tags:
+  - docker
+  script:
+  - hugo
+  except:
+  - master
+
+pages:
+  tags:
+  - docker
+  script:
+  - hugo
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

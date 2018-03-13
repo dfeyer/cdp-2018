@@ -1,0 +1,13 @@
+.DocumentFooter {
+  position: relative;
+  background-color: $color-brand;
+  height: 12px;
+
+  margin-top: 5rem;
+
+  &__logo {
+    position: absolute;
+    bottom: 0;
+    right: 4rem;
+  }
+}

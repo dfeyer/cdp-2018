@@ -1,0 +1,32 @@
+.Button {
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+  color: white;
+  z-index: 1;
+  font-family: $font-family-heading;
+
+  transition: all 240ms ease-in-out;
+
+  &:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    background-color: $color-brand;
+    font-weight: 700;
+
+    top: -.75rem;
+    left: -.75rem;
+    right: -.75rem;
+    bottom: -.75rem;
+
+    transition: all 320ms ease-in-out;
+  }
+
+  &:hover,
+  &:focus {
+    &:before {
+      background-color: darken($color-brand, 20%);
+    }
+  }
+}

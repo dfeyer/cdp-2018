@@ -1,0 +1,36 @@
+.Logo {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  font-family: $font-family-heading;
+  color: #000000;
+  line-height: 1.2;
+  text-decoration: none;
+
+  &:hover,
+  &:visited,
+  &:focus {
+    text-decoration: none;
+  }
+
+  svg {
+    height: 100%;
+    width: auto;
+  }
+
+  &__content {
+    border-left: 1px solid $border-color;
+    margin-left: 1rem;
+    padding-left: 1rem;
+  }
+
+  &__headline {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  &__name {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+}

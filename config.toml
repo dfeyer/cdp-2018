@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "fr-ch"
+theme = "perma"
+title = "CDP Vaud-Valais 2018"
+
+[params]
+  author = "Dominique Feyer"
+  info = "Full Stack DadOps and Content Freak"
+  description = "Dominique Feyer's personal website"
+  keywords = "blog,developer,personal,php,elixir,neoscms"

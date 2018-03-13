@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+  width: 100vw;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  font-family: $font-family-content;
+  font-size: 22px;
+  width: 100vw;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: $font-family-heading;
+}
+h3,h4,h5,h6 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+a {
+  color: inherit;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+}

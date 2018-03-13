@@ -1,0 +1,20 @@
+.Media {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-bottom: 2rem;
+
+  &__content {
+    padding-right: 4rem;
+  }
+
+  &__media {
+    width: 40%;
+    height: auto;
+
+    > img {
+      width: 100%;
+      height: auto;
+      margin-top: .5rem;
+    }
+  }
+}

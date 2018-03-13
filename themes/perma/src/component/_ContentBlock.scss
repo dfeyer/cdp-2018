@@ -1,0 +1,83 @@
+.ContentBlock {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+  margin: -5rem 4rem 0 4rem;
+
+  + .ContentBlock {
+    margin-top: 1rem;
+  }
+
+  &__header {
+    flex-basis: 100%;
+    height: 3rem;
+    z-index: 1;
+    background-color: white;
+    height: 5rem;
+    padding-left: 1rem;
+
+    h2 {
+      margin-bottom: 0;
+      line-height: 3rem;
+    }
+
+    width: 80%;
+    z-index: 1;
+
+    &:after {
+      display: block;
+      margin-top: .25rem;
+      content: "";
+      width: 60%;
+      border-bottom: 1px solid $border-color;
+    }
+  }
+
+  &__content,
+  &__footer {
+    flex: 0 0 41rem;
+    margin-right: 1rem;
+    margin-left: auto;
+  }
+
+  &__content {
+    margin-top: 2rem;
+
+    a {
+      color: $color-brand;
+      text-decoration: none;
+
+      transition: color .1s ease-out;
+
+      &:hover,
+      &:focus {
+        color: black;
+        background-image: linear-gradient($color-brand,$color-brand);
+        background-repeat: no-repeat;
+        background-size: 100% 2px;
+        background-position: center bottom 10%;
+        background-origin: padding-box;
+        text-shadow: 3px 0 white,2px 0 white,1px 0 white,-1px 0 white,-2px 0 white,-3px 0 white;
+      }
+    }
+  }
+
+  &__footer {
+    margin-top: 2.75rem;
+    padding-left: .75rem;
+    margin-bottom: 2.75rem;
+  }
+
+  &--full {
+    .ContentBlock__content,
+    .ContentBlock__footer {
+      flex: 0 0 100%;
+      padding-left: 1rem;
+    }
+
+    .ContentBlock__footer {
+      padding-left: 1.75rem;
+    }
+  }
+}

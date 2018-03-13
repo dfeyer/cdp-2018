@@ -593,5 +593,7 @@ p {
   left: 1rem;
   bottom: 1rem;
   font-size: 14px; }
+  .BuildWithLove a {
+    text-decoration: none; }
   .BuildWithLove b {
     color: #ef2678; }

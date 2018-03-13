@@ -415,6 +415,8 @@ p {
     padding-left: 1.75rem; }
 
 .DocumentFooter {
+  display: flex;
+  flex-wrap: wrap;
   position: relative;
   background-color: #9ED36A;
   height: 12px;
@@ -585,3 +587,11 @@ p {
   max-width: 1600px;
   margin: 0 auto;
   background-color: white; }
+
+.BuildWithLove {
+  position: absolute;
+  left: 1rem;
+  bottom: 1rem;
+  font-size: 14px; }
+  .BuildWithLove b {
+    color: #ef2678; }

@@ -36,12 +36,12 @@
 
   &__content,
   &__footer {
-    flex: 0 0 41rem;
     margin-right: 1rem;
     margin-left: auto;
   }
 
   &__content {
+    flex: 0 0 70%;
     margin-top: 2rem;
 
     a {
@@ -64,8 +64,11 @@
   }
 
   &__footer {
+    display: flex;
+    justify-content: flex-end;
+    flex: 0 0 100%;
     margin-top: 2.75rem;
-    padding-left: .75rem;
+    padding-right: .75rem;
     margin-bottom: 2.75rem;
   }
 

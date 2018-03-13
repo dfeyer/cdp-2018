@@ -383,10 +383,10 @@ p {
       width: 60%;
       border-bottom: 1px solid #979797; }
   .ContentBlock__content, .ContentBlock__footer {
-    flex: 0 0 41rem;
     margin-right: 1rem;
     margin-left: auto; }
   .ContentBlock__content {
+    flex: 0 0 70%;
     margin-top: 2rem; }
     .ContentBlock__content a {
       color: #9ED36A;
@@ -401,8 +401,11 @@ p {
         background-origin: padding-box;
         text-shadow: 3px 0 white,2px 0 white,1px 0 white,-1px 0 white,-2px 0 white,-3px 0 white; }
   .ContentBlock__footer {
+    display: flex;
+    justify-content: flex-end;
+    flex: 0 0 100%;
     margin-top: 2.75rem;
-    padding-left: .75rem;
+    padding-right: .75rem;
     margin-bottom: 2.75rem; }
   .ContentBlock--full .ContentBlock__content,
   .ContentBlock--full .ContentBlock__footer {
@@ -427,7 +430,7 @@ p {
   width: calc(100% + 4rem);
   margin: 2rem -4rem 0 -4rem; }
   .InlineFigure__image {
-    width: 100vw;
+    width: 100%;
     height: auto; }
   .InlineFigure__caption {
     position: absolute;
@@ -475,16 +478,17 @@ p {
     font-size: 2rem;
     line-height: 1.45;
     font-weight: 700;
-    background-color: rgba(255, 255, 255, 0.2);
-    display: inline-block;
-    padding: 0.5rem 1rem;
     margin-bottom: .75rem;
-    -webkit-box-decoration-break: clone;
-    box-decoration-break: clone;
     transition: all 620ms ease-in-out; }
   .Highlight__subtitle {
     font-size: 1.6rem;
     font-weight: 400; }
+  .Highlight__overlay {
+    display: inline-block !important;
+    background-color: rgba(255, 255, 255, 0.2);
+    display: block;
+    padding: 0.5rem 1rem;
+    box-decoration-break: clone; }
   .Highlight__actions {
     margin: 4.75rem; }
 
@@ -575,3 +579,8 @@ p {
       background-position: center bottom 11%;
       background-origin: padding-box;
       text-shadow: 3px 0 #f6f3f2,2px 0 #f6f3f2,1px 0 #f6f3f2,-1px 0 #f6f3f2,-2px 0 #f6f3f2,-3px 0 #f6f3f2; }
+
+.MainArea {
+  max-width: 1600px;
+  margin: 0 auto;
+  background-color: white; }

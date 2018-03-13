@@ -19,6 +19,7 @@
     background: inherit;
     background-attachment: fixed;
 
+
     transition: all 480ms ease-in-out;
   }
 
@@ -45,13 +46,7 @@
     font-size: 2rem;
     line-height: 1.45;
     font-weight: 700;
-    background-color: rgba(255, 255, 255, .2);
-    display: inline-block;
-    padding: 0.5rem 1rem;
     margin-bottom: .75rem;
-
-    -webkit-box-decoration-break: clone;
-    box-decoration-break: clone;
 
     transition: all 620ms ease-in-out;
   }
@@ -59,6 +54,15 @@
   &__subtitle {
     font-size: 1.6rem;
     font-weight: 400;
+  }
+
+  &__overlay {
+    display: inline-block !important;
+    background-color: rgba(255, 255, 255, .2);
+    display: block;
+    padding: 0.5rem 1rem;
+
+    box-decoration-break: clone;
   }
 
   &__actions {

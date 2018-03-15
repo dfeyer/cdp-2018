@@ -493,7 +493,8 @@ p {
     background: inherit;
     background-attachment: fixed;
     background-blend-mode: multiply;
-    transition: all 480ms ease-in-out; }
+    transition: all 480ms ease-in-out;
+    z-index: -1; }
   .Highlight__content {
     margin: 0 1rem;
     padding-top: 1rem;
@@ -537,15 +538,19 @@ p {
       padding-bottom: 4rem; } }
 
 .List {
-  padding: 0; }
+  padding: 0;
+  width: 100%; }
   .List__item {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    font-size: 18px;
+    font-size: .85rem;
     list-style: none;
     line-height: 1.35;
     margin-bottom: .25rem;
     font-weight: 400; }
+    .List__item > .List {
+      padding-left: 1rem; }
     .List__item::before {
       content: "";
       background-color: #9ed36a;
@@ -555,6 +560,13 @@ p {
       margin-right: .5rem; }
     .List__item a {
       color: inherit; }
+    .List__item--section {
+      font-family: "Merriweather", serif;
+      font-weight: 700;
+      font-size: 1.05rem;
+      margin-bottom: .75rem; }
+      .List__item--section:before {
+        display: none; }
 
 .Logo {
   display: flex;

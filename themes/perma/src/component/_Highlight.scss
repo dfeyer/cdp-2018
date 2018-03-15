@@ -23,6 +23,7 @@
     background-blend-mode: multiply;
 
     transition: all 480ms ease-in-out;
+    z-index: -1;
   }
 
   &__content {

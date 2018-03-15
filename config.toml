@@ -3,6 +3,9 @@ languageCode = "fr-ch"
 theme = "perma"
 title = "CDP Vaud-Valais · 9 au 22 juillet 2018"
 
+[params]
+teamSections = ["formateurs", "intervenants", "personnes"]
+
 [[menu.main]]
     name = "Objectifs"
     weight = 1
@@ -11,14 +14,9 @@ title = "CDP Vaud-Valais · 9 au 22 juillet 2018"
 [[menu.main]]
     name = "L'équipe"
     weight = 2
-    url = "/equipe#content"
+    url = "/intervenants#content"
 
 [[menu.main]]
     name = "Les lieux"
     weight = 3
     url = "/lieux#content"
-
-[[menu.main]]
-    name = "Programme"
-    weight = 4
-    url = "/programme#content"

@@ -1,0 +1,34 @@
+<article class="ContentBlock ContentBlock--full">
+  <div class="BannerImage">
+    <img src="https://picsum.photos/1600/1200/?random&gravity=east" alt="Un jeune enfant qui joue au cerceau en souriant">
+  </div>
+  <header class="ContentBlock__header" id="content">
+    <h2 class="ContentBlock__title">{{ .Title }}</h2>
+  </header>
+  <div class="ContentBlock__content">
+    {{ .Content }}
+
+    <h2>L'équipe d'encadrement</h2>
+
+    <ul class="List">
+      {{ range where .Site.Pages "Section" "in" .Site.Params.teamSections }}
+        {{ range .Pages.GroupBy "Section" }}
+        <li class="List__item List__item--section">
+          {{ with $.Site.GetPage "section" .Key }}
+            {{ .Title }}
+          {{ end }}
+          <ul class="List">
+            {{ range .Pages }}
+            <li class="List__item">
+              <a href="{{ .URL }}">
+                {{ .Title }} ({{ .Params.locality }}, {{ .Params.state }})
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+</article>

@@ -1,15 +1,21 @@
 .List {
   padding: 0;
+  width: 100%;
 
   &__item {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    font-size: 18px;
+    font-size: .85rem;
     list-style: none;
 
     line-height: 1.35;
     margin-bottom: .25rem;
     font-weight: 400;
+
+    > .List {
+      padding-left: 1rem;
+    }
 
     &::before {
       content: "";
@@ -22,6 +28,17 @@
 
     a {
       color: inherit;
+    }
+
+    &--section {
+      font-family: $font-family-heading;
+      font-weight: 700;
+      font-size: 1.05rem;
+      margin-bottom: .75rem;
+
+      &:before {
+        display: none;
+      }
     }
   }
 }

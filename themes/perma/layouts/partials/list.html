@@ -2,10 +2,10 @@
   <div class="BannerImage">
     <img src="https://picsum.photos/1600/1200/?random&gravity=east" alt="Un jeune enfant qui joue au cerceau en souriant">
   </div>
-  <header class="ContentBlock__header">
+  <header class="ContentBlock__header" id="content">
     <h2 class="ContentBlock__title">{{ .Title }}</h2>
   </header>
-  <div class="ContentBlock__content" id="content">
+  <div class="ContentBlock__content">
     {{ .Content }}
     <ul>
       {{ range .Paginator.Pages }}

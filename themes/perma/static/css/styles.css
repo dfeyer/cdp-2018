@@ -521,17 +521,19 @@ p {
     padding: 0.5rem 1rem;
     box-decoration-break: clone; }
   .Highlight__actions {
-    margin: 4.75rem; }
+    margin: 1.75rem;
+    padding-bottom: 1rem; }
   @media (min-width: 40em) {
-    .Highlight {
-      height: calc(100vh - 5rem - 3rem); }
-      .Highlight__content {
-        margin: 0 4rem;
-        padding-top: 4rem; }
-      .Highlight__title {
-        font-size: 2rem; }
-      .Highlight__subtitle {
-        font-size: 1.6rem; } }
+    .Highlight__content {
+      margin: 0 4rem;
+      padding-top: 4rem; }
+    .Highlight__title {
+      font-size: 2rem; }
+    .Highlight__subtitle {
+      font-size: 1.6rem; }
+    .Highlight__actions {
+      margin: 4.75rem;
+      padding-bottom: 4rem; } }
 
 .List {
   padding: 0; }

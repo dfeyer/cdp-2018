@@ -492,6 +492,7 @@ p {
     height: 100%;
     background: inherit;
     background-attachment: fixed;
+    background-blend-mode: multiply;
     transition: all 480ms ease-in-out; }
   .Highlight__content {
     margin: 0 1rem;

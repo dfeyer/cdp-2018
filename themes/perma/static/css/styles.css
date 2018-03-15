@@ -584,6 +584,7 @@ p {
   @media (min-width: 40em) {
     .Logo {
       flex-direction: row;
+      margin-top: 0;
       margin-bottom: 0;
       height: 5.5rem; }
       .Logo__content {

@@ -455,25 +455,29 @@ p {
     height: auto; }
   .InlineFigure__caption {
     position: absolute;
-    left: 4rem;
-    bottom: 2rem;
     background-color: rgba(255, 255, 255, 0.9);
     padding: 1rem;
-    width: 60%;
-    font-size: 18px;
+    left: 0;
+    bottom: 0;
+    width: calc(100% + 1rem);
+    font-size: .8rem;
     line-height: 1.4; }
   @media (min-width: 40em) {
     .InlineFigure {
       margin: 2rem -4rem 0 -4rem;
       width: calc(100% + 4rem); }
       .InlineFigure__image {
-        width: calc(100% + 4rem); } }
+        width: calc(100% + 4rem); }
+      .InlineFigure__caption {
+        width: 60%;
+        left: 4rem;
+        bottom: 2rem; } }
 
 .Highlight {
   display: flex;
   position: relative;
   flex-direction: column;
-  height: calc(100vh - 5rem - 3rem);
+  padding-bottom: 4rem;
   max-height: 800px;
   background-position: center center;
   background-repeat: no-repeat;
@@ -492,7 +496,6 @@ p {
   .Highlight__content {
     margin: 0 1rem;
     padding-top: 1rem;
-    width: 80%;
     z-index: 1; }
     .Highlight__content:hover .Highlight__title,
     .Highlight__content:hover .Highlight__subtitle, .Highlight__content:focus .Highlight__title,
@@ -520,13 +523,15 @@ p {
   .Highlight__actions {
     margin: 4.75rem; }
   @media (min-width: 40em) {
-    .Highlight__content {
-      margin: 0 4rem;
-      padding-top: 4rem; }
-    .Highlight__title {
-      font-size: 2rem; }
-    .Highlight__subtitle {
-      font-size: 1.6rem; } }
+    .Highlight {
+      height: calc(100vh - 5rem - 3rem); }
+      .Highlight__content {
+        margin: 0 4rem;
+        padding-top: 4rem; }
+      .Highlight__title {
+        font-size: 2rem; }
+      .Highlight__subtitle {
+        font-size: 1.6rem; } }
 
 .List {
   padding: 0; }
@@ -550,30 +555,48 @@ p {
 
 .Logo {
   display: flex;
+  flex-direction: column;
   flex: 1;
   align-items: center;
   font-family: "Merriweather", serif;
   color: #000000;
   line-height: 1.2;
   text-decoration: none;
-  height: 5.5rem; }
+  margin-top: 1rem;
+  margin-bottom: 2rem; }
   .Logo:hover, .Logo:visited, .Logo:focus {
     text-decoration: none; }
   .Logo__content {
-    border-left: 1px solid #979797;
-    margin-left: 1rem;
-    padding-left: 1rem; }
+    border-top: 1px solid #979797;
+    margin-top: 1rem;
+    padding-top: 1rem; }
   .Logo__headline, .Logo__name {
-    white-space: nowrap; }
+    white-space: nowrap;
+    text-align: center; }
   .Logo__headline {
     font-size: .8rem;
     font-weight: 400; }
   .Logo__name {
     font-size: 1.1rem;
     font-weight: 700; }
+  @media (min-width: 40em) {
+    .Logo {
+      flex-direction: row;
+      margin-bottom: 0;
+      height: 5.5rem; }
+      .Logo__content {
+        border-top: 0;
+        margin-top: 0;
+        padding-top: 0;
+        border-left: 1px solid #979797;
+        margin-left: 1rem;
+        padding-left: 1rem; }
+      .Logo__headline, .Logo__name {
+        text-align: left; } }
 
 .MainNavigation {
   align-items: center;
+  justify-content: center;
   background-color: #f6f3f2;
   box-shadow: 0 2px 6px #979797;
   display: flex;
@@ -596,8 +619,10 @@ p {
     .MainNavigation__navigation {
       display: inherit; } }
   @media (min-width: 40em) {
-    .MainNavigation__hamburger {
-      display: inherit; } }
+    .MainNavigation {
+      justify-content: flex-start; }
+      .MainNavigation__hamburger {
+        display: inherit; } }
   @media (min-width: 60em) {
     .MainNavigation {
       position: sticky; }

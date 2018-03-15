@@ -1,12 +1,14 @@
 .Logo {
   display: flex;
+  flex-direction: column;
   flex: 1;
   align-items: center;
   font-family: $font-family-heading;
   color: #000000;
   line-height: 1.2;
   text-decoration: none;
-  height: 5.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
 
   &:hover,
   &:visited,
@@ -15,14 +17,15 @@
   }
 
   &__content {
-    border-left: 1px solid $border-color;
-    margin-left: 1rem;
-    padding-left: 1rem;
+    border-top: 1px solid $border-color;
+    margin-top: 1rem;
+    padding-top: 1rem;
   }
 
   &__headline,
   &__name {
     white-space: nowrap;
+    text-align: center;
   }
 
   &__headline {
@@ -33,5 +36,26 @@
   &__name {
     font-size: 1.1rem;
     font-weight: 700;
+  }
+
+  @include breakpoint(medium) {
+    flex-direction: row;
+    margin-bottom: 0;
+    height: 5.5rem;
+
+    &__content {
+      border-top: 0;
+      margin-top: 0;
+      padding-top: 0;
+
+      border-left: 1px solid $border-color;
+      margin-left: 1rem;
+      padding-left: 1rem;
+    }
+
+    &__headline,
+    &__name {
+      text-align: left;
+    }
   }
 }

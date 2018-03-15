@@ -2,7 +2,9 @@
   display: flex;
   position: relative;
   flex-direction: column;
-  height: calc(100vh - 5rem - 3rem);
+
+  padding-bottom: 4rem;
+
   max-height: 800px;
   background-position: center center;
   background-repeat: no-repeat;
@@ -26,7 +28,7 @@
   &__content {
     margin: 0 1rem;
     padding-top: 1rem;
-    width: 80%;
+
     z-index: 1;
 
     &:hover,
@@ -72,6 +74,8 @@
   }
 
   @include breakpoint(medium) {
+    height: calc(100vh - 5rem - 3rem);
+
     &__content {
       margin: 0 4rem;
       padding-top: 4rem;

@@ -11,12 +11,12 @@
 
   &__caption {
     position: absolute;
-    left: 4rem;
-    bottom: 2rem;
     background-color: rgba(255, 255, 255, .9);
     padding: 1rem;
-    width: 60%;
-    font-size: 18px;
+    left: 0;
+    bottom: 0;
+    width: calc(100% + 1rem);
+    font-size: .8rem;
     line-height: 1.4;
   }
 
@@ -26,6 +26,12 @@
 
     &__image {
       width: calc(100% + 4rem);
+    }
+
+    &__caption {
+      width: 60%;
+      left: 4rem;
+      bottom: 2rem;
     }
   }
 }

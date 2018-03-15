@@ -24,8 +24,8 @@
   }
 
   &__content {
-    margin: 0 4rem;
-    padding-top: 4rem;
+    margin: 0 1rem;
+    padding-top: 1rem;
     width: 80%;
     z-index: 1;
 
@@ -45,7 +45,7 @@
   &__subtitle {
     font-family: $font-family-heading;
     color: white;
-    font-size: 2rem;
+    font-size: 1.1rem;
     line-height: 1.45;
     font-weight: 700;
     margin-bottom: .75rem;
@@ -54,7 +54,7 @@
   }
 
   &__subtitle {
-    font-size: 1.6rem;
+    font-size: 1rem;
     font-weight: 400;
   }
 
@@ -69,5 +69,20 @@
 
   &__actions {
     margin: 4.75rem;
+  }
+
+  @include breakpoint(medium) {
+    &__content {
+      margin: 0 4rem;
+      padding-top: 4rem;
+    }
+
+    &__title {
+      font-size: 2rem;
+    }
+
+    &__subtitle {
+      font-size: 1.6rem;
+    }
   }
 }

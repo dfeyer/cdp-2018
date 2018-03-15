@@ -3,7 +3,7 @@
   flex-wrap: wrap;
   flex-direction: row;
 
-  margin: -5rem 4rem 0 4rem;
+  margin: -5rem 1rem 0 1rem;
 
   + .ContentBlock {
     margin-top: 1rem;
@@ -41,7 +41,9 @@
   }
 
   &__content {
-    flex: 0 0 70%;
+    flex: 0 0 100%;
+    padding: 0 1rem;
+
     margin-top: 2rem;
 
     a {
@@ -60,6 +62,11 @@
         background-origin: padding-box;
         text-shadow: 3px 0 white,2px 0 white,1px 0 white,-1px 0 white,-2px 0 white,-3px 0 white;
       }
+    }
+
+    @include breakpoint(large) {
+      flex: 0 0 70%;
+      padding: 0;
     }
   }
 
@@ -82,5 +89,9 @@
     .ContentBlock__footer {
       padding-left: 1.75rem;
     }
+  }
+
+  @include breakpoint(medium) {
+    margin: -5rem 4rem 0 4rem;
   }
 }

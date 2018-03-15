@@ -1,37 +1,43 @@
-@import "variables";
+@import 'variables';
 
-@import "normalize";
-@import "reset";
+@import 'mixins';
 
-@import "component/BannerImage";
-@import "component/Button";
-@import "component/ContentBlock";
-@import "component/DocumentFooter";
-@import "component/InlineFigure";
-@import "component/Highlight";
-@import "component/List";
-@import "component/Logo";
-@import "component/MainNavigation";
-@import "component/Media";
-@import "component/NavigationList";
+@import 'normalize';
+@import 'reset';
+
+@import 'component/BannerImage';
+@import 'component/Button';
+@import 'component/ContentBlock';
+@import 'component/DocumentFooter';
+@import 'component/InlineFigure';
+@import 'component/Highlight';
+@import 'component/List';
+@import 'component/Logo';
+@import 'component/MainNavigation';
+@import 'component/Media';
+@import 'component/NavigationList';
 
 .MainArea {
-  max-width: 1600px;
-  margin: 0 auto;
   background-color: white;
+  margin: 0 auto;
+  max-width: 1600px;
+}
+
+.ContentArea {
+
 }
 
 .BuildWithLove {
-  position: absolute;
-  left: 1rem;
   bottom: 1rem;
   font-size: 14px;
+  left: 1rem;
+  position: absolute;
 
   a {
     text-decoration: none;
   }
 
   b {
-    color: #ef2678;
+    color: $color-love;
   }
 }

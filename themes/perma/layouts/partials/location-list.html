@@ -7,13 +7,12 @@
   </header>
   <div class="ContentBlock__content">
     {{ .Content }}
-    <ul>
-      {{ range .Paginator.Pages }}
-      <li>
-        <span>{{ .Date.Format "January 2, 2006" }}</span><a href="{{ .URL }}">{{ .Title }}</a>
+    <ul class="List">
+      {{ range .Pages }}
+      <li class="List__item">
+        <a href="{{ .URL }}">{{ .Title }} ({{ .Params.locality }}, {{ .Params.state }})</a>
       </li>
       {{ end }}
     </ul>
-    {{ partial "pagination.html" . }}
   </div>
 </article>

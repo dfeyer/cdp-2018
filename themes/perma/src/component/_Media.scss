@@ -1,20 +1,30 @@
 .Media {
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: column;
   margin-bottom: 2rem;
-
-  &__content {
-    padding-right: 4rem;
-  }
 
   &__media {
     width: 40%;
     height: auto;
+    margin-bottom: 1rem;
 
     > img {
       width: 100%;
       height: auto;
       margin-top: .5rem;
+    }
+  }
+
+  @include breakpoint(large) {
+    flex-direction: row-reverse;
+
+    &__content {
+      padding-right: 4rem;
+    }
+
+    &__media {
+      margin-bottom: 0;
+      width: 100%;
     }
   }
 }

@@ -1,15 +1,15 @@
 .DocumentFooter {
+  background-color: $color-brand;
   display: flex;
   flex-wrap: wrap;
-  position: relative;
-  background-color: $color-brand;
   height: 12px;
-
   margin-top: 5rem;
 
+  position: relative;
+
   &__logo {
-    position: absolute;
     bottom: 0;
+    position: absolute;
     right: 4rem;
   }
 }

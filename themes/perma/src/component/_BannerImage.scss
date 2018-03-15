@@ -2,12 +2,16 @@
   width: calc(100% + 8rem);
   height: 420px;
   overflow: hidden;
-  margin: 0 -4rem;
+  margin: 0 -1rem;
   margin-bottom: -5rem;
 
   img {
     width: 100%;
     object-fit: cover;
     object-position: center center;
+  }
+
+  @include breakpoint(medium) {
+    margin: 0 -4rem;
   }
 }

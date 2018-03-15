@@ -1,11 +1,52 @@
 .MainNavigation {
-  display: flex;
-  position: sticky;
-  top: 0;
   align-items: center;
-  height: 6rem;
+  background-color: $navigation-background;
   box-shadow: 0 2px 6px $border-color;
-  background-color: #f6f3f2;
+  display: flex;
+  flex-wrap: wrap;
   padding: 0 4rem;
+  top: 0;
   z-index: 10;
+
+  &__hamburger {
+    display: flex;
+    align-items: center;
+    height: 5.5rem;
+  }
+
+  &__hamburger:target ~ .MainNavigation__navigation {
+    display: inherit;
+  }
+
+  &__navigation {
+    display: none;
+    flex: 0 0 100%;
+  }
+
+  @include breakpoint(small) {
+    &__hamburger {
+      display: none;
+    }
+
+    &__navigation {
+      display: inherit;
+    }
+  }
+
+  @include breakpoint(medium) {
+    &__hamburger {
+      display: inherit;
+    }
+  }
+
+  @include breakpoint(large) {
+    position: sticky;
+    &__hamburger {
+      display: none;
+    }
+    &__navigation {
+      display: block;
+      flex: 0 0 auto;
+    }
+  }
 }

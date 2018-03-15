@@ -6,16 +6,12 @@
   color: #000000;
   line-height: 1.2;
   text-decoration: none;
+  height: 5.5rem;
 
   &:hover,
   &:visited,
   &:focus {
     text-decoration: none;
-  }
-
-  svg {
-    height: 100%;
-    width: auto;
   }
 
   &__content {
@@ -24,13 +20,18 @@
     padding-left: 1rem;
   }
 
+  &__headline,
+  &__name {
+    white-space: nowrap;
+  }
+
   &__headline {
-    font-size: 1rem;
+    font-size: .8rem;
     font-weight: 400;
   }
 
   &__name {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-weight: 700;
   }
 }

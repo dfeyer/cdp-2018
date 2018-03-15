@@ -1,11 +1,11 @@
 .InlineFigure {
   position: relative;
   margin: 0;
-  width: calc(100% + 4rem);
-  margin: 2rem -4rem 0 -4rem;
+  width: calc(100% + 1rem);
+  margin: 2rem -1rem 0 -1rem;
 
   &__image {
-    width: calc(100% + 4rem);
+    width: calc(100% + 1rem);
     height: auto;
   }
 
@@ -15,8 +15,17 @@
     bottom: 2rem;
     background-color: rgba(255, 255, 255, .9);
     padding: 1rem;
-    width: 43rem;
+    width: 60%;
     font-size: 18px;
     line-height: 1.4;
+  }
+
+  @include breakpoint(medium) {
+    margin: 2rem -4rem 0 -4rem;
+    width: calc(100% + 4rem);
+
+    &__image {
+      width: calc(100% + 4rem);
+    }
   }
 }

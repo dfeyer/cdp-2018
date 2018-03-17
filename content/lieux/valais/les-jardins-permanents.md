@@ -7,4 +7,5 @@ type = "location"
 
 # Les Jardins Permanents
 
-Lieu d'accueil pour le camping des stagiaires durant la seconde semaine du stage, ...
+Lieu d'accueil pour le camping des stagiaires durant la seconde semaine du stage,
+...

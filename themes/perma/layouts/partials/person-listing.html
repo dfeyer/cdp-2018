@@ -1,0 +1,18 @@
+<ul class="List">
+  {{ range where .Site.Pages "Section" "in" .Site.Params.teamSections }}
+    {{ range .Pages.GroupBy "Section" }}
+    <li class="List__item List__item--section">
+      {{ with $.Site.GetPage "section" .Key }}
+        {{ .Title }}
+      {{ end }}
+      <ul class="List">
+        {{ range .Pages }}
+        <li class="List__item">
+          <a href="{{ .URL }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </li>
+    {{ end }}
+  {{ end }}
+</ul>

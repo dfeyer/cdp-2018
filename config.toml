@@ -17,6 +17,11 @@ teamSections = ["formateurs", "intervenants", "personnes"]
     url = "/intervenants#content"
 
 [[menu.main]]
-    name = "Les lieux"
+    name = "Le programme"
     weight = 3
+    url = "/programme#content"
+
+[[menu.main]]
+    name = "Les lieux"
+    weight = 5
     url = "/lieux#content"

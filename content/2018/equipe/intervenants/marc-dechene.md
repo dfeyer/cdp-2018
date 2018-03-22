@@ -2,6 +2,7 @@
 title = "Marc Dechêne"
 position = "Intervenant"
 type = "person"
+tags = ["staff", "2018"]
 +++
 
 Passionné de nature, Marc s’est formé sur les plantes sauvages comestibles et

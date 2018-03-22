@@ -3,25 +3,48 @@ languageCode = "fr-ch"
 theme = "perma"
 title = "CDP Vaud-Valais · 9 au 22 juillet 2018"
 
-[params]
-teamSections = ["formateurs", "intervenants", "personnes"]
-
 [[menu.main]]
     name = "Objectifs"
     weight = 1
-    url = "/objectifs#content"
+    url = "/2018/objectifs#content"
 
 [[menu.main]]
     name = "L'équipe"
     weight = 2
-    url = "/intervenants#content"
+    url = "/2018/equipe#content"
 
 [[menu.main]]
     name = "Le programme"
     weight = 3
-    url = "/programme#content"
+    url = "/2018/programme#content"
 
 [[menu.main]]
     name = "Les lieux"
     weight = 5
-    url = "/lieux#content"
+    url = "/2018/lieux#content"
+
+[related]
+
+# Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+threshold = 80
+
+# To get stable "See also" sections we, by default, exclude newer related pages.
+includeNewer = false
+
+# Will lower case keywords in both queries and in the indexes.
+toLower = false
+
+[[related.indices]]
+name = "keywords"
+weight = 150
+[[related.indices]]
+name  = "author"
+toLower = true
+weight = 30
+[[related.indices]]
+name  = "tags"
+weight = 100
+[[related.indices]]
+name  = "date"
+weight = 10
+pattern = "2018"

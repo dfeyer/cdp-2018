@@ -3,6 +3,7 @@ title = "Hubert de Kalbermatten"
 position = "Formateur & designers diplômés"
 certified = true
 type = "person"
+tags = ["staff", "2018"]
 +++
 
 Spécialisé en paysagisme écologique, Hubert utilise le design en permaculture

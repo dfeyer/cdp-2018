@@ -44,3 +44,27 @@
     }
   }
 }
+
+.List {
+  &--inline {
+    display: flex;
+    flex-wrap: wrap;
+
+    .List__item {
+      &::after {
+        display: inline-block;
+        content: ", ";
+        margin-right: .25em;
+      }
+      &::before {
+        display: none;
+      }
+
+      &:last-child {
+        &::after {
+          content: "";
+        }
+      }
+    }
+  }
+}

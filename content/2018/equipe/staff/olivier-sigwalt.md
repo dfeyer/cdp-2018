@@ -2,6 +2,7 @@
 title = "Olivier Sigwalt"
 position = "Cuisinier"
 type = "person"
+tags = ["staff", "2018"]
 +++
 
 Curieux de tout mais surtout du reste, Olivier est passionné par toutes les

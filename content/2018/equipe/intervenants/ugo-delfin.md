@@ -2,6 +2,7 @@
 title = "Ugo Delfin"
 position = "Intervenant"
 type = "person"
+tags = ["staff", "2018"]
 +++
 
 Concepteur en Mutlimédia de formation, Ugo est actuellement étudiant en

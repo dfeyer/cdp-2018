@@ -2,6 +2,7 @@
 title = "Pauline Lalondrelle"
 position = "Organisation"
 type = "person"
+tags = ["staff", "2018"]
 +++
 
 Économiste de formation, Pauline est active dans l’organisation d’événements

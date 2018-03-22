@@ -1,6 +1,6 @@
 +++
 title = "Les intervenants"
-weight = 100
+weight = 20
 date = "2018-03-13T09:41:02+01:00"
 type = "person"
 +++

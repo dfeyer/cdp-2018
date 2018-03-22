@@ -1,4 +1,4 @@
 +++
 title = "Formateurs certifié"
-weight = 20
+weight = 10
 +++

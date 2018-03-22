@@ -2,6 +2,7 @@
 title = "Aino Adriaens"
 position = "Intervenant"
 type = "person"
+tags = ["staff", "2018"]
 +++
 
 Botaniste et naturaliste, Aino a cartographié de nombreuses tourbières

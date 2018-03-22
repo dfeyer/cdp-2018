@@ -1,4 +1,4 @@
 +++
 title = "Le reste de l'équipe"
-weight = 200
+weight = 30
 +++

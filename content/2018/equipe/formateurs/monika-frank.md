@@ -3,6 +3,7 @@ title = "Monika Frank"
 position = "Formateur & designers diplômés"
 certified = true
 type = "person"
+tags = ["staff", "2018"]
 +++
 
 Architecte paysagiste et diplômée en Permaculture Appliqué de l’Académie

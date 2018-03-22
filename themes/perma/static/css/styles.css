@@ -584,6 +584,18 @@ p {
       .List__item--section:before {
         display: none; }
 
+.List--inline {
+  display: flex;
+  flex-wrap: wrap; }
+  .List--inline .List__item::after {
+    display: inline-block;
+    content: ", ";
+    margin-right: .25em; }
+  .List--inline .List__item::before {
+    display: none; }
+  .List--inline .List__item:last-child::after {
+    content: ""; }
+
 .Logo {
   display: flex;
   flex-direction: column;

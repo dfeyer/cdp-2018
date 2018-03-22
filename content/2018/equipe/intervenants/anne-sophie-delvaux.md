@@ -2,6 +2,7 @@
 title = "Anne-Sophie Delvaux"
 position = "Intervenant"
 type = "person"
+tags = ["staff", "2018"]
 +++
 
 Jurassienne d’adoption, éducatrice en environnement et interprète nature de

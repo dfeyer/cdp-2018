@@ -537,20 +537,30 @@ p {
       margin: 4.75rem;
       padding-bottom: 4rem; } }
 
+.ContentBlock__content ul,
 .List {
   padding: 0;
   width: 100%; }
+  .ContentBlock__content ul li, .ContentBlock__content ul__item,
+  .List li,
   .List__item {
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     font-size: .85rem;
     list-style: none;
     line-height: 1.35;
     margin-bottom: .25rem;
     font-weight: 400; }
+    .ContentBlock__content ul li > .ContentBlock__content ul,
+    .ContentBlock__content ul li > .List, .ContentBlock__content ul__item > .ContentBlock__content ul,
+    .ContentBlock__content ul__item > .List,
+    .List li > .ContentBlock__content ul,
+    .List li > .List,
+    .List__item > .ContentBlock__content ul,
     .List__item > .List {
       padding-left: 1rem; }
+    .ContentBlock__content ul li::before, .ContentBlock__content ul__item::before,
+    .List li::before,
     .List__item::before {
       content: "";
       background-color: #9ed36a;
@@ -558,13 +568,19 @@ p {
       width: 10px;
       border-radius: 50%;
       margin-right: .5rem; }
+    .ContentBlock__content ul li a, .ContentBlock__content ul__item a,
+    .List li a,
     .List__item a {
       color: inherit; }
+    .ContentBlock__content ul li--section, .ContentBlock__content ul__item--section,
+    .List li--section,
     .List__item--section {
       font-family: "Merriweather", serif;
       font-weight: 700;
       font-size: 1.05rem;
       margin-bottom: .75rem; }
+      .ContentBlock__content ul li--section:before, .ContentBlock__content ul__item--section:before,
+      .List li--section:before,
       .List__item--section:before {
         display: none; }
 

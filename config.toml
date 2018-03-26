@@ -3,6 +3,10 @@ languageCode = "fr-ch"
 theme = "perma"
 title = "CDP Vaud-Valais · 9 au 22 juillet 2018"
 
+[params]
+  subscriptionUrl = "/2018/inscription#content"
+  subscriptionForm = "https://goo.gl/forms/EST4ZJ46X2DnGVRA3"
+
 [[menu.main]]
     name = "Objectifs"
     weight = 1

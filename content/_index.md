@@ -10,4 +10,10 @@ Frank]({{< ref "2018/equipe/formateurs/monika-frank.md" >}}) (Allemagne/France),
 et par une équipe de permaculteurs expérimentés. C’est avec un immense plaisir
 qu’ils partageront leur passion dans leur domaine de compétence, qu’il s’agisse
 de plantes sau- vages, de construction écologique, d’énergie, de climat, de
-relations humaines... 
+relations humaines...
+
+## Ateliers et animations enfants
+
+Durant les deux semaines, les enfants sont accompagnés durant la journée (jeux,
+contes, animations, atelier...). Ne tardez pas à vous inscrire! Le nombre de
+places est limité à 25

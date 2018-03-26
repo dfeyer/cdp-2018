@@ -11,7 +11,7 @@ title = "Inscription"
 
 ## Tarifs
 
-- **adulte**: 1’100 CHF ou <em>prix de soutiens</em> 1’500 CHF enfant: 460 CHF
+- **adulte**: 1’100 CHF ou __prix de soutiens__ 1’500 CHF enfant: 460 CHF
 - (réduction familles: dès 2 enfants, les frais d’un enfant sont offerts)
 
 Si vous avez besoin de plus de renseignements, vous pouvez prendre contact

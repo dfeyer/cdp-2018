@@ -15,7 +15,7 @@ title = "Inscription"
 - (réduction familles: dès 2 enfants, les frais d’un enfant sont offerts)
 
 Si vous avez besoin de plus de renseignements, vous pouvez prendre contact
-directement avec [Pauline Lalondrelle](mailto:pauline.lalondrelle@gmail.com) ou
+directement avec [Pauline Lalondrelle](mailto:info@permaculture-itinerante.com) ou
 [Monika Frank](mailto:m.frank@permakultur-akademie.net)
 
 Le stage peut accueillir 25 adultes maximum.

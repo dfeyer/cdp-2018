@@ -1,23 +1,20 @@
-+++
-title = "Le programme"
-weight = 200
-+++
+---
+title: Le programme
+---
+Les contenus du CDP correspondent aux 12 modules officiels. Les avoir suivi vous donnera droit au certificat de design en permaculture, délivré par
+l’[Université Populaire de permaculture](http://permaculture-upp.org/).
 
-Les contenus du CDP correspondent aux 12 modules officiels. Les avoir suivi
-vous donnera droit au certificat de design en permaculture, délivré par
-l’Université française de permaculture.
-
-- Historique de la permaculture
-- Les éthiques
-- Design: principes, outils et méthodologie
-- Les exercices de design
-- Les sols
-- Le climat
-- L’eau
-- Les plantes et le rôle des arbres, la flore et la faune sauvage
-- Les animaux domestiques et les systèmes agricoles
-- L’habitat, l’écoconstruction et l’énergie
-- Le social et les structures invisibles Les alternatives à l’économie courante
+* Historique de la permaculture
+* Les éthiques
+* Design: principes, outils et méthodologie
+* Les exercices de design
+* Les sols
+* Le climat
+* L’eau
+* Les plantes et le rôle des arbres, la flore et la faune sauvage
+* Les animaux domestiques et les systèmes agricoles
+* L’habitat, l’écoconstruction et l’énergie
+* Le social et les structures invisibles Les alternatives à l’économie courante
 
 ## Cours, ateliers & visites
 
@@ -33,9 +30,5 @@ formation.
 
 ## Enfants bienvenus
 
-Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert aux
-familles. Des jeux et des animations spécifiques leur seront proposés pendant
-les cours plutôt destinés aux adultes. Comme dirait Ugo, l’un de nos formateurs,
+Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert aux familles. Des jeux et des animations spécifiques leur seront proposés pendant les cours plutôt destinés aux adultes. Comme dirait Ugo, l’un de nos formateurs,
 «avec les grands on échange, avec les enfants on apprend!»
-
-Le programme complet est disponible sur demande

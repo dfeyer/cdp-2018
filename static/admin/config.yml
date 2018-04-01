@@ -70,7 +70,7 @@ collections:
 
   - name: "programme"
     label: "Programme"
-    folder: "content/programme"
+    folder: "content/2018/programme"
     create: true
     slug: "{{slug}}"
     fields:

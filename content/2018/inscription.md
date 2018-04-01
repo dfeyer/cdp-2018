@@ -1,18 +1,18 @@
-+++
-title = "Inscription"
-+++
+---
+title: Inscription
+---
+## Le forfait inclu
 
-## Le forfait
-
-- Les frais pédagogiques
-- Des supports de cours
-- L’hébergement en camping (soit 13 nuits du 9 au 22 juillet)
-- Les repas et collations (à l’exception du dimanche 15 juillet).
+* Les frais pédagogiques
+* Des supports de cours
+* L’hébergement en camping (soit 13 nuits du 9 au 22 juillet)
+* Les repas et collations (à l’exception du dimanche 15 juillet).
 
 ## Tarifs
 
-- **adulte**: 1’100 CHF ou __prix de soutiens__ 1’500 CHF enfant: 460 CHF
-- (réduction familles: dès 2 enfants, les frais d’un enfant sont offerts)
+* **adulte**: 1’100 CHF ou **prix de soutiens** 1’500 CHF 
+* enfant: 460 CHF
+* réduction familles: dès 2 enfants, les frais sont offerts pour un des enfant inscrit
 
 Si vous avez besoin de plus de renseignements, vous pouvez prendre contact
 directement avec [Pauline Lalondrelle](mailto:info@permaculture-itinerante.com) ou

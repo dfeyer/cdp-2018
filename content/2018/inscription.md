@@ -27,13 +27,14 @@ est possible grâce aux bénévolats et à la forte implication des différents
 partenaires (Le Centre FEEL Faire L’École en Libertée, La Magie Verte, Les Jardins Permanents, la ferme du Crêt Maunet, la Motte qui Botte, L' Association Perle
 d’Ambre). 
 
-** À votre bonne conscience et selon vos possibilités à vous de choisir votre participation financière.**
+**À votre bonne conscience et selon vos possibilités à vous de choisir votre participation financière.**
 
 [**Inscription en ligne**](https://goo.gl/forms/EST4ZJ46X2DnGVRA3)
 
 _Le stage peut accueillir 25 adultes au maximum._
 
 ## Renseignements
+
 Si vous avez besoin de plus de renseignements, vous pouvez prendre contact
 directement avec [Pauline Lalondrelle](mailto:info@permaculture-itinerante.com) ou
 [Monika Frank](mailto:m.frank@permakultur-akademie.net)

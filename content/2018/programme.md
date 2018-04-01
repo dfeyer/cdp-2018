@@ -14,7 +14,8 @@ l’[Université Populaire de permaculture](http://permaculture-upp.org/).
 * Les plantes et le rôle des arbres, la flore et la faune sauvage
 * Les animaux domestiques et les systèmes agricoles
 * L’habitat, l’écoconstruction et l’énergie
-* Le social et les structures invisibles Les alternatives à l’économie courante
+* Le social et les structures invisibles 
+* Les alternatives à l’économie courante
 
 ## Cours, ateliers & visites
 

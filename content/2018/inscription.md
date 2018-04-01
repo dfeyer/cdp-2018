@@ -16,6 +16,7 @@ title: Inscription
 * Les repas et collations (à l’exception du dimanche 15 juillet).
 
 **Supplément pour le logement en chambre et le covoiturage**
+
 Comptez un supplément si vous souhaitez loger en chambre la deuxième semaine en
 Valais (aprox. 20 CHF / nuit / personne - selon disponibilité) et pour les transports sur place que nous partagerons tous ensemble (covoiturage).
 

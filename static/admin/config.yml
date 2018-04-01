@@ -58,3 +58,12 @@ collections:
       - {label: "Locality", name: "locality", widget: "string"}
       - {label: "State", name: "state", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "2018"
+    label: "2018"
+    folder: "content/2018/2018"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

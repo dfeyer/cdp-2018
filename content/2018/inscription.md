@@ -8,15 +8,14 @@ title: Inscription
 * **Enfant**: 460 CHF
 * **Réduction familles**: dès 2 enfants, les frais sont offerts pour l'un des enfant inscrit
 
-## Le forfait inclu
+# Le forfait inclu
 
 * Les frais pédagogiques
 * Des supports de cours
 * L’hébergement en camping (soit 13 nuits du 9 au 22 juillet)
 * Les repas et collations (à l’exception du dimanche 15 juillet).
 
-## Supplément pour le logement en chambre et le covoiturage
-
+**Supplément pour le logement en chambre et le covoiturage**
 Comptez un supplément si vous souhaitez loger en chambre la deuxième semaine en
 Valais (aprox. 20 CHF / nuit / personne - selon disponibilité) et pour les transports sur place que nous partagerons tous ensemble (covoiturage).
 
@@ -28,12 +27,13 @@ est possible grâce aux bénévolats et à la forte implication des différents
 partenaires (Le Centre FEEL Faire L’École en Libertée, La Magie Verte, Les Jardins Permanents, la ferme du Crêt Maunet, la Motte qui Botte, L' Association Perle
 d’Ambre). 
 
-À votre bonne conscience et selon vos possibilités à vous de choisir votre participation financière.
-
-Si vous avez besoin de plus de renseignements, vous pouvez prendre contact
-directement avec [Pauline Lalondrelle](mailto:info@permaculture-itinerante.com) ou
-[Monika Frank](mailto:m.frank@permakultur-akademie.net)
+** À votre bonne conscience et selon vos possibilités à vous de choisir votre participation financière.**
 
 [**Inscription en ligne**](https://goo.gl/forms/EST4ZJ46X2DnGVRA3)
 
 _Le stage peut accueillir 25 adultes au maximum._
+
+## Renseignements
+Si vous avez besoin de plus de renseignements, vous pouvez prendre contact
+directement avec [Pauline Lalondrelle](mailto:info@permaculture-itinerante.com) ou
+[Monika Frank](mailto:m.frank@permakultur-akademie.net)

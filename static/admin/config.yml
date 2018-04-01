@@ -8,8 +8,8 @@ media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-  - name: "formateur"
-    label: "Formateurs"
+  - name: "2018/formateur"
+    label: "2018/Formateurs"
     folder: "content/2018/equipe/formateurs"
     create: true
     slug: "{{slug}}"
@@ -21,8 +21,8 @@ collections:
       - {label: "Tags", name: "thumbnail", widget: "list", default: ["staff", "2018"]}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "intervenant"
-    label: "Intervenants"
+  - name: "2018/intervenant"
+    label: "2018/Intervenants"
     folder: "content/2018/equipe/intervenants"
     create: true
     slug: "{{slug}}"
@@ -34,8 +34,8 @@ collections:
       - {label: "Tags", name: "thumbnail", widget: "list", default: ["staff", "2018"]}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "staff"
-    label: "Staff"
+  - name: "2018/staff"
+    label: "2018/Staff"
     folder: "content/2018/equipe/staff"
     create: true
     slug: "{{slug}}"
@@ -47,8 +47,8 @@ collections:
       - {label: "Tags", name: "thumbnail", widget: "list", default: ["staff", "2018"]}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "lieu"
-    label: "Lieu"
+  - name: "2018/lieu"
+    label: "2018/Lieu"
     folder: "content/2018/lieux"
     create: true
     slug: "{{slug}}"
@@ -62,6 +62,15 @@ collections:
   - name: "2018"
     label: "2018"
     folder: "content/2018"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "Home"
+    label: "home"
+    folder: "content"
     create: true
     slug: "{{slug}}"
     fields:

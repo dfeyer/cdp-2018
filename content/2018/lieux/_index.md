@@ -1,9 +1,9 @@
-+++
-title = "Deux lieux & de multiples visages"
-date = "2018-03-13T09:41:02+01:00"
-type = "location"
-+++
-
+---
+type: location
+title: Deux lieux & de multiples visages
+locality: 'La Sarraz, Sierre'
+state: 'Vaud, Valais'
+---
 ## Une voyage à travers la Suisse romande
 
 Le cours que nous vous proposons de vivre aura lieu du 9 au 22 juillet en Suisse
@@ -19,15 +19,13 @@ ponctueront le séjour.
 
 ## Le gîte et le couvert
 
-Les stagiaires seront accueillis et hébergés du 9 au 14 juillet: au centre FEEL à
-la Sarraz et hébergé à la Ferme du Crêt Maunet (VD) feel-vaud.ch du 15 au 21
-juillet: en Valais, aux Jardins Permanents et aux Espaces Magie verte, au dessus
-de Sierre. jardins-permanents.ch et magiculture.ch
+Les stagiaires seront accueillis 
 
-Situés dans un environnement naturel privilégié, ces deux sites joueront
-pleinement leur rôle de support de cours.
+du 9 au 14 juillet: sur le canton de Vaud, au centre Faire l’école en Libertée (FEEL) à la Sarraz et hébergé à la Ferme du Crêt Maunet (VD)
 
-Côté cuisine, les repas seront végétariens, simples, nourrissants et source
-d’enseignements. Chacun sera invité à mettre la main à la pâte sous les conseils
-d’Olivier Sigwalt, un chef cuisinier passionné qui a plus d’une plante dans son
-sac!
+du 15 au 21 juillet: en Valais, aux Jardins Permanents et aux Espaces Magie verte, au dessus
+de Sierre. 
+
+Situés dans un environnement naturel privilégié, ces  sites joueront pleinement leur rôle de support de cours.
+
+Côté cuisine, les repas seront végétariens, simples, nourrissants et source d’enseignements. Chacun sera invité à mettre la main à la pâte sous les conseils d’Olivier Sigwalt, un chef cuisinier passionné qui a plus d’une plante dans son sac!

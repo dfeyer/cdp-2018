@@ -1,0 +1,60 @@
+backend:
+  name: git-gateway
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "formateur"
+    label: "Formateurs"
+    folder: "content/2018/equipe/formateurs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "people"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Certified", name: "certified", widget: "boolean"}
+      - {label: "Tags", name: "thumbnail", widget: "list", default: ["staff", "2018"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "intervenant"
+    label: "Intervenants"
+    folder: "content/2018/equipe/intervenants"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "people"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Certified", name: "certified", widget: "boolean"}
+      - {label: "Tags", name: "thumbnail", widget: "list", default: ["staff", "2018"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "staff"
+    label: "Staff"
+    folder: "content/2018/equipe/staff"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "people"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Position", name: "position", widget: "string"}
+      - {label: "Certified", name: "certified", widget: "boolean"}
+      - {label: "Tags", name: "thumbnail", widget: "list", default: ["staff", "2018"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "lieu"
+    label: "Lieu"
+    folder: "content/2018/lieux"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "location"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Locality", name: "locality", widget: "string"}
+      - {label: "State", name: "state", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

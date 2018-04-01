@@ -1,8 +1,6 @@
-+++
-title = "Objectif terre"
-date = "2018-03-13T09:41:02+01:00"
-+++
-
+---
+title: Objectif terre
+---
 Conçu par David Holmgren et Bill Mollison, les fondateurs de la permaculture,
 le cours certifié de design en permaculture vous permet d’en appréhender en une
 douzaine de jours les éthiques, les principes, les pratiques et les outils.
@@ -18,4 +16,4 @@ Au-delà d’un manuel de bonnes pratiques qui s’inspirent du fonctionnement 
 écosystèmes naturels, la permaculture est aussi un état d’esprit qui se vit au
 quotidien, pour le bonheur de chacun.
 
-[Plus de détails sur l'histoire de la permaculture]({{< ref "histoire-de-la-permaculture" >}})
+[Plus de détails sur la permaculture](http://permaculture-upp.org/upp/la-permaculture/)

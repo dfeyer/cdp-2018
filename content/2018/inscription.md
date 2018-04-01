@@ -3,10 +3,10 @@ title: Inscription
 ---
 ## Tarifs
 
-* **adulte**: 1’100 CHF 
-* **prix de soutiens** 1’500 CHF 
-* **enfant**: 460 CHF
-* réduction familles: dès 2 enfants, les frais sont offerts pour l'un des enfant inscrit
+* **Adulte**: 1’100 CHF 
+* **Adulte prix de soutiens** 1’500 CHF 
+* **Enfant**: 460 CHF
+* **Réduction familles**: dès 2 enfants, les frais sont offerts pour l'un des enfant inscrit
 
 ## Le forfait inclu
 
@@ -15,11 +15,10 @@ title: Inscription
 * L’hébergement en camping (soit 13 nuits du 9 au 22 juillet)
 * Les repas et collations (à l’exception du dimanche 15 juillet).
 
-## Supplément pour le logement en chambre et covoiturage
+## Supplément pour le logement en chambre et le covoiturage
 
 Comptez un supplément si vous souhaitez loger en chambre la deuxième semaine en
-Valais (aprox. 20 CHF / nuit / personne - selon disponibilité) et pour les
-transports sur place que nous partagerons tous ensemble (covoiturage).
+Valais (aprox. 20 CHF / nuit / personne - selon disponibilité) et pour les transports sur place que nous partagerons tous ensemble (covoiturage).
 
 ## Un grand merci à nos bénévoles et nos partenaires
 

@@ -1,14 +1,13 @@
-+++
-title = "Centre FEEL - Faire l'école en liberté"
-locality = "La Sarraz"
-state = "Vaud"
-type = "location"
-+++
-
+---
+type: location
+title: Centre FEEL - Faire l'école en liberté
+locality: La Sarraz
+state: Vaud
+---
 # Le centre FEEL
 
-Le centre FEEL est un lieu de rencontrer, de jeu et de travail pour les familles
-pratiquant l'école à la maison (IEF, Instruction en Famille). Ce lieu existe
-depuis un peu plus de 2 ans et cultive le côté sociale de la permaculture.
-Les enfants s'engage dans différents projets, dont un atelier de permaculture
-en collaboration avec la Motte qui Botte, un autre partenaire de ce CDP.
+Le centre Faire l’Ecole En Liberté (FEEL) est un lieu de rencontre, de jeu et de travail pour les familles pratiquant l’école à la maison (ou instruction en famille IEF). Ce lieu existe depuis un peu plus de deux ans et cultive le côté sociale de la permaculture. Les enfants s’engagent dans différents projets, dont un atelier de permaculture en collaboration avec la Motte qui Botte, un autre partenaire de ce cours.
+
+FEEL sera le lieu principal pour les repas et les cours lors de la première semaine. 
+
+[Site officiel](https://feel-vaud.ch/)

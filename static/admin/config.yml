@@ -61,7 +61,7 @@ collections:
 
   - name: "2018"
     label: "2018"
-    folder: "content/2018/2018"
+    folder: "content/2018"
     create: true
     slug: "{{slug}}"
     fields:

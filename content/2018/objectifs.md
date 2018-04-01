@@ -12,8 +12,6 @@ les êtres avec lesquels nous cohabitons. Mais le défi est de taille, car il
 nécessite bien souvent une complète remise en question de nos modes de vie, de
 nos façons de cultiver, de consommer, de se déplacer et de vivre ensemble!
 
-![La fleur de la permaculture](/images/uploads/fleur-permaculture.jpg)
-
 Au-delà d’un manuel de bonnes pratiques qui s’inspirent du fonctionnement des
 écosystèmes naturels, la permaculture est aussi un état d’esprit qui se vit au
 quotidien, pour le bonheur de chacun.

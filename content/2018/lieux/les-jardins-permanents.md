@@ -1,7 +1,7 @@
 ---
 type: location
 title: 'Les Jardins Permanents et l’institut Méiose '
-locality: 'Sion - Saint-Léonard, Luc'
+locality: 'Saint-Léonard, Luc'
 state: Valais
 ---
 Situées dans la plaine du Rhône suisse, les parcelles des Jardins Permanents se partagent entre petits espaces de production et zones de compensation sauvage.

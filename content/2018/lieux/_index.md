@@ -1,7 +1,7 @@
 ---
 type: location
 title: Deux lieux & de multiples visages
-locality: 'La Sarraz, Sierre'
+locality: 'La Sarraz, Pompaple, Luc, Ayent, Saint-Léonard'
 state: 'Vaud, Valais'
 ---
 ## Une voyage à travers la Suisse romande

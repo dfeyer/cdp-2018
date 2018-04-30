@@ -10,8 +10,8 @@ Nous pourrons y découvrir: des serres vivantes, passives en énergie, un petit 
 
 L'entreprise associe agriculture régénératrice, paysagisme et horticulture naturelle depuis 2006. Celle-ci est construite selon les méthodes et les principes de la permaculture.
 
-Le design du cours aura lieu à Luc sur un des sites de recherches et de formations de l’institut Méiose avec le soutien technique des Jardins Permanents. 
-
 [Site officiel Les jardins Permanents](https://www.jardins-permanents.ch/)
+
+Le design du cours aura lieu à Luc sur un des sites de recherches et de formations de l’institut Méiose avec le soutien technique des Jardins Permanents. 
 
 [Institut Méiose](https://www.jardins-permanents.ch/services/permaculture/institut-meoise)

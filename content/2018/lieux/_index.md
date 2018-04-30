@@ -25,6 +25,6 @@ du 9 au 14 juillet: sur le canton de Vaud, au centre Faire l’école en Libert�
 
 du 15 au 21 juillet: Le design du cours aura lieu en Valais à Luc sur un des sites de recherches et de formations de l’institut Méiose avec le soutien technique des Jardins Permanents. Nous serons hébergé sur le magnifique site du chalet des Rousses à Ayent.
 
-Situés dans un environnement naturel privilégié, ces  sites joueront pleinement leur rôle de support de cours.
+Situés dans un environnement naturel privilégié et variés, ces  sites joueront pleinement leur rôle de support de cours.
 
 Côté cuisine, les repas seront végétariens, simples, nourrissants et source d’enseignements. Chacun sera invité à mettre la main à la pâte sous les conseils d’Olivier Sigwalt, un chef cuisinier passionné qui a plus d’une plante dans son sac!

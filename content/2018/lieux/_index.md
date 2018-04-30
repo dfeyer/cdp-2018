@@ -23,8 +23,7 @@ Les stagiaires seront accueillis
 
 du 9 au 14 juillet: sur le canton de Vaud, au centre Faire l’école en Libertée (FEEL) à la Sarraz et hébergé à la Ferme du Crêt Maunet (VD)
 
-du 15 au 21 juillet: en Valais, aux Jardins Permanents et aux Espaces Magie verte, au dessus
-de Sierre. 
+du 15 au 21 juillet: Le design du cours aura lieu en Valais à Luc sur un des sites de recherches et de formations de l’institut Méiose avec le soutien technique des Jardins Permanents. Nous serons hébergé sur le magnifique site du chalet des Rousses à Ayent.
 
 Situés dans un environnement naturel privilégié, ces  sites joueront pleinement leur rôle de support de cours.
 

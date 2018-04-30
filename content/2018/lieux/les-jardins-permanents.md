@@ -12,5 +12,6 @@ L'entreprise associe agriculture régénératrice, paysagisme et horticulture na
 
 Le design du cours aura lieu à Luc sur un des sites de recherches et de formations de l’institut Méiose avec le soutien technique des Jardins Permanents. 
 
-[Site officiel](https://www.jardins-permanents.ch/)
-Institut Méiose: https://www.jardins-permanents.ch/services/permaculture/institut-meoise
+[Site officiel Les jardins Permanents](https://www.jardins-permanents.ch/)
+
+[Institut Méiose](https://www.jardins-permanents.ch/services/permaculture/institut-meoise)

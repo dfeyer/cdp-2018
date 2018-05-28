@@ -33,3 +33,60 @@ formation.
 
 Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert aux familles. Des jeux et des animations spécifiques leur seront proposés pendant les cours plutôt destinés aux adultes. Comme dirait Ugo, l’un de nos formateurs,
 «avec les grands on échange, avec les enfants on apprend!»
+
+# Jour par jour
+
+## Lundi 09 - introduction
+
+Entre 11h et 13h, acceuil et présentations, charte du stage, jeux et présentation des participants.
+
+## Mardi 10 - introduction
+
+* Méthodologie et outils de design
+* Les modèles naturels
+* Exercises d'obsérvation
+* La permaculture est beaucoup plus que du jardinage... (la Fleur de Holmgren)
+
+## Mercredi 11 - Permaculture Sociale 
+
+* 
+
+Jeudi 12 - Ecologie
+
+...
+
+Vendredi 13 - Climat
+
+...
+
+Samedi 14 - Habitat & Energie
+
+...
+
+Dimanche 15 - Journée libre
+
+...
+
+Lundi 16 - Eau & sols
+
+...
+
+Mardi 17 - Arbre
+
+...
+
+Mercredi 18 - Sols et plantes
+
+...
+
+Jeudi 19 - Animaux
+
+...
+
+Vendredi 20 - Economie
+
+...
+
+Samedi 21 - Design
+
+...

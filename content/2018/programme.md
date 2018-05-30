@@ -38,103 +38,152 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 
 ## Lundi 09 - introduction
 
-Entre 11h et 13h, acceuil et présentations, charte du stage, jeux et présentation des participants.
+Entre 11 h et 13 h, accueil et présentation, charte du stage, jeux et présentation des participants.
 
 ## Mardi 10 - introduction
+•	Méthodologie et outils de design 
 
-* Méthodologie et outils de design
-* Les modèles naturels
-* Exercises d'obsérvation
-* La permaculture est beaucoup plus que du jardinage... (la Fleur de Holmgren)
+•	Les modèles naturels 
 
-## Mercredi 11 - Permaculture Sociale
+•	Exercises d'observation 
 
-* Chantier participatif dans les jardins de "La Motte qui botte"
-* Visite de la Filature (La Sarraz) et brainstorming sur le design social
-* Permaculture sociale et économie
+•	La permaculture est beaucoup plus que du jardinage... (la Fleur de Holmgren) 
 
-## Jeudi 12 - Ecologie
+## Mercredi 11 - Permaculture sociale
+•	Chantier participatif dans les jardins de "La Motte qui botte" 
 
-* Les bases de l'écologie
-* Principes de conception à la Bill Mollison
-* Inviter l'écologie dans son jardin
-* Production sous serre
-* Toitures végétalisées
+•	Visite de la Filature (La Sarraz) et brainstorming sur le design social 
+
+•	Permaculture sociale et économie 
+
+## Jeudi 12 - Écologie
+
+•	Les bases de l'écologie 
+
+•	Principes de conception à la Bill Mollison 
+
+•	Inviter l'écologie dans son jardin 
+
+•	Production sous serre 
+
+•	Toitures végétalisées 
 
 ## Vendredi 13 - Climat
 
-* Facteurs climatiques
-* Comment gérer et créer des micro climats
-* Flore sauvage
-* Physiologie des plantes
-* Reconnaissance
-* Bio-indication
-* Cueillette
+•	Facteurs climatiques 
 
-## Samedi 14 - Habitat & Energie
+•	Comment gérer et créer des microclimats 
 
-* Ecoconstruction
-* Visite d'une maison/chantier
-* L'eau dans le contexte de l'habitat
-* Utilisation de l'eau de pluie
-* Phyto-épuration
+•	Flore sauvage 
 
-## Dimanche 15 - Journée libre
+•	Physiologie des plantes 
 
-* Déplacement & journée libre
-* Installation sur le terrain en Valais
+•	Reconnaissance 
+
+•	Bio-indication 
+
+•	Cueillette 
+
+## Samedi 14 - Habitat & Énergie
+
+•	Ecoconstruction 
+
+•	Visite d'une maison/chantier 
+
+•	L'eau dans le contexte de l'habitat 
+
+•	Utilisation de l'eau de pluie 
+
+•	Phytoépuration 
+
+## Dimanche 15 - Journée libre
+
+•	Déplacement & journée libre 
+
+•	Installation sur le terrain en Valais 
 
 ## Lundi 16 - Eau & sols
 
-* Observation du terrain
-* Gestion de l'eau et du sol
-* Exercise sur les courbes de niveau
-* Méthodologies et outils de design
-* Présentation de l'exercice de groupe
-* Groupe de design
+•	Observation du terrain 
 
-## Mardi 17 - Arbre
+•	Gestion de l'eau et du sol 
 
-* Fonctions des arbres
-* Les arbres sur les grandes surfaces
-* Sylviculture
-* Agroforesterie
-* Arboriculture
-* Les alternatives sur de plus petites surfaces
-* Jardin-Forêt
-* Guildes des plantes
-* Groupe de design
-* Chantier / activités pratiques
+•	Exercise sur les courbes de niveau 
+
+•	Méthodologies et outils de design 
+
+•	Présentation de l'exercice de groupe 
+
+•	Groupe de design 
+
+## Mardi 17 - Arbres
+
+•	Fonctions des arbres 
+
+•	Les arbres sur les grandes surfaces 
+
+•	Sylviculture 
+
+•	Agroforesterie 
+
+•	Arboriculture 
+
+•	Les alternatives sur de plus petites surfaces 
+
+•	Jardin-Forêt 
+
+•	Guildes des plantes 
+
+•	Groupe de design 
+
+•	Chantier / activités pratiques 
 
 ## Mercredi 18 - Sols et plantes
 
-* Présentation d'un projet professionnel en permaculture
-* Pédologie / Science des sols
-* Comment faire sa terre végétale
-* Reproduction des plantes
-* Groupe de design
-* Chantier / activités pratiques
+•	Présentation d'un projet professionnel en permaculture 
+
+•	Pédologie / Science des sols 
+
+•	Comment faire sa terre végétale 
+
+•	Reproduction des plantes 
+
+•	Groupe de design 
+
+•	Chantier / activités pratiques 
 
 ## Jeudi 19 - Animaux
 
-* Gestion des animaux
-* Agriculture de régénération
-* Thémes d'agriculture selon les besoins (grandes cultures, viticulture, gestion des forêts, reboisement)
+•	Gestion des animaux 
 
-## Vendredi 20 - Economie
+•	Agriculture de régénération 
 
-* Structure invisible
-* Structure légales, coopératives, ...
-* Planification, réalisation, gestion des récoltes
-* Mise en valeur des produits
-* Groupe de design
+•	Thémes d'agriculture selon les besoins (grandes cultures, viticulture, gestion des forêts, reboisement) 
+
+## Vendredi 20 - Économie
+
+•	Structure invisible 
+
+•	Structures légales, coopératives... 
+
+•	Planification, réalisation, gestion des récoltes 
+
+•	Mise en valeur des produits 
+
+•	Groupe de design 
 
 ## Samedi 21 - Design
 
-* Présentation des designs de groupe
-* Célébrations
-* Evalutation des cours
-* Appréciation
-* Certificats
-* Tisser le réseau
-* Rangement
+•	Présentation des designs de groupe 
+
+•	Célébration! 
+
+•	Evalutation des cours 
+
+•	Appréciation 
+
+•	Certificats 
+
+•	Tisser le réseau 
+
+•	Rangement 

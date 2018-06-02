@@ -12,8 +12,8 @@ title: Inscription
 
 * Les frais pédagogiques
 * Des supports de cours
-* L’hébergement en camping (soit 13 nuits du 9 au 22 juillet)
-* Les repas et collations (à l’exception du dimanche 15 juillet).
+* L’hébergement en camping (soit 12 nuits du 9 au 21 juillet)
+* Les repas et collations (à l’exception du dimanche 15 juillet du 9 au soir au 21 midi).
 
 **Supplément pour le logement en dortoir et le covoiturage**
 
@@ -21,7 +21,7 @@ Comptez un supplément si vous souhaitez loger en dortoir la deuxième semaine e
 
 **Un grand merci à nos bénévoles et nos partenaires**
 
-Nous souhaitions organiser un CDP accessible notamment pour les familles. Le cours est proposé pour un prix minimum et un prix de soutien. Le prix minimum est possible grâce aux bénévolats et à la forte implication des différents partenaires (Le Centre FEEL Faire L’École en Libertée, La Magie Verte, Les Jardins Permanents, la ferme du Crêt Maunet, la Motte qui Botte, L' Association Perle d’Ambre). 
+Nous souhaitions organiser un CDP accessible notamment pour les familles. Le cours est proposé pour un prix minimum et un prix de soutien. Le prix minimum est possible grâce aux bénévolats et à la forte implication des différents partenaires (Le Centre FEEL Faire L’École en Libertée, Les Jardins Permanents, la ferme du Crêt Maunet, la Motte qui Botte, L' Association Perle d’Ambre). 
 
 À votre bonne conscience et selon vos possibilités à vous de choisir votre participation financière.
 

@@ -112,50 +112,33 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 
 ## Mercredi 18 - Sols et plantes
 
-•	Présentation d'un projet professionnel en permaculture 
-
-•	Pédologie / Science des sols 
-
-•	Comment faire sa terre végétale 
-
-•	Reproduction des plantes 
-
-•	Groupe de design 
-
-•	Chantier / activités pratiques 
+* Présentation d'un projet professionnel de permaculture 
+* Pédologie / Science des sols 
+* Comment faire sa terre végétale 
+* Reproduction des plantes 
+* Groupe de design 
+* Chantier / activités pratiques 
 
 ## Jeudi 19 - Animaux
 
-•	Gestion des animaux 
-
-•	Agriculture de régénération 
-
-•	Thémes d'agriculture selon les besoins (grandes cultures, viticulture, gestion des forêts, reboisement) 
+* Gestion des animaux 
+* Agriculture de régénération 
+* Thémes d'agriculture selon les besoins (grandes cultures, viticulture, gestion des forêts, reboisement) 
 
 ## Vendredi 20 - Économie
 
-•	Structure invisible 
-
-•	Structures légales, coopératives... 
-
-•	Planification, réalisation, gestion des récoltes 
-
-•	Mise en valeur des produits 
-
-•	Groupe de design 
+* Structure invisible 
+* Structures légales, coopératives... 
+* Planification, réalisation, gestion des récoltes 
+* Mise en valeur des produits 
+* Groupe de design 
 
 ## Samedi 21 - Design
 
-•	Présentation des designs de groupe 
-
-•	Célébration! 
-
-•	Evalutation des cours 
-
-•	Appréciation 
-
-•	Certificats 
-
-•	Tisser le réseau 
-
-•	Rangement 
+* Présentation des designs de groupe 
+* Célébration! 
+* Evalutation des cours 
+* Appréciation 
+* Certificats 
+* Tisser le réseau 
+* Rangement 

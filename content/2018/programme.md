@@ -36,11 +36,16 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 
 # Jour par jour
 
+## Dimanche 08 - arrivée
+* Installation du campement à Pompaples
+ 
 ## Lundi 09 - introduction
 
 * Entre 11 h et 13 h, accueil et présentation, 
 * charte du stage
-* jeux et présentation des participants.
+* jeux et présentation des participants
+* Définition, historique et éthiques de la Permaculture
+* Principes de conception
 
 ## Mardi 10 - introduction
 •	Méthodologie et outils de design 
@@ -102,7 +107,7 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 
 •	Déplacement & journée libre 
 
-•	Installation sur le terrain en Valais 
+•	Installation du campement en Valais 
 
 ## Lundi 16 - Eau & sols
 

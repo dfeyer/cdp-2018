@@ -37,7 +37,7 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 # Jour par jour
 
 ## Dimanche 08 - arrivée
-* Installation du campement
+* Installation du campement à Pompaples
  
 ## Lundi 09 - introduction
 
@@ -107,7 +107,7 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 
 •	Déplacement & journée libre 
 
-•	Installation sur le terrain en Valais 
+•	Installation du campement en Valais 
 
 ## Lundi 16 - Eau & sols
 

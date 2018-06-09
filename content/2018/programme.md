@@ -78,57 +78,37 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 
 ## Samedi 14 - Habitat & Énergie
 
-•	Ecoconstruction 
-
-•	Visite d'une maison/chantier 
-
-•	L'eau dans le contexte de l'habitat 
-
-•	Utilisation de l'eau de pluie 
-
-•	Phytoépuration 
+* Ecoconstruction 
+* Visite d'une maison/chantier 
+* L'eau dans le contexte de l'habitat 
+* Utilisation de l'eau de pluie 
+* Phytoépuration 
 
 ## Dimanche 15 - Journée libre
-
-•	Déplacement & journée libre 
-
-•	Installation du campement en Valais 
+* Déplacement & journée libre 
+* Installation du campement en Valais 
 
 ## Lundi 16 - Eau & sols
 
-•	Observation du terrain 
-
-•	Gestion de l'eau et du sol 
-
-•	Exercise sur les courbes de niveau 
-
-•	Méthodologies et outils de design 
-
-•	Présentation de l'exercice de groupe 
-
-•	Groupe de design 
+* Observation du terrain 
+* Gestion de l'eau et du sol 
+* Exercise sur les courbes de niveau 
+* Méthodologies et outils de design 
+* Présentation de l'exercice de groupe 
+* Groupe de design 
 
 ## Mardi 17 - Arbres
 
-•	Fonctions des arbres 
-
-•	Les arbres sur les grandes surfaces 
-
-•	Sylviculture 
-
-•	Agroforesterie 
-
-•	Arboriculture 
-
-•	Les alternatives sur de plus petites surfaces 
-
-•	Jardin-Forêt 
-
-•	Guildes des plantes 
-
-•	Groupe de design 
-
-•	Chantier / activités pratiques 
+* Fonctions des arbres 
+* Les arbres sur les grandes surfaces 
+* Sylviculture 
+* Agroforesterie 
+* Arboriculture 
+* Les alternatives sur de plus petites surfaces 
+* Jardin-Forêt 
+* Guildes des plantes 
+* Groupe de design 
+* Chantier / activités pratiques 
 
 ## Mercredi 18 - Sols et plantes
 

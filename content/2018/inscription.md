@@ -12,8 +12,8 @@ title: Inscription
 
 * Les frais pédagogiques
 * Des supports de cours
-* L’hébergement en camping (soit 12 nuits du 9 au 21 juillet)
-* Les repas et collations (à l’exception du dimanche 15 juillet du 9 au soir au 21 midi).
+* L’hébergement en camping (soit 12 nuits du 9 au 21 juillet - arrivée le 8 possible)
+* Les repas et collations (du 9 au soir au 21 midi, à l’exception du dimanche 15 juillet).
 
 **Supplément pour le logement en dortoir et le covoiturage**
 

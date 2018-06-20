@@ -37,22 +37,26 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 # Jour par jour
 
 ## Lundi 09 - introduction
+
 * Entre 11 h et 13 h, accueil et présentation, 
 * charte du stage
 * jeux et présentation des participants.
 
 ## Mardi 10 - introduction
+
 * Méthodologie et outils de design 
 * Les modèles naturels 
 * Exercises d'observation 
 * La permaculture est beaucoup plus que du jardinage... (la Fleur de Holmgren) 
 
 ## Mercredi 11 - Permaculture sociale
+
 * Chantier participatif dans les jardins de "La Motte qui botte" 
 * Visite de la Filature (La Sarraz) et brainstorming sur le design social 
 * Permaculture sociale et économie 
 
 ## Jeudi 12 - Écologie
+
 * Les bases de l'écologie 
 * Principes de conception à la Bill Mollison 
 * Inviter l'écologie dans son jardin 
@@ -60,6 +64,7 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 * Toitures végétalisées 
 
 ## Vendredi 13 - Climat
+
 * Facteurs climatiques 
 * Comment gérer et créer des microclimats 
 * Flore sauvage 
@@ -69,17 +74,20 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 * Cueillette 
 
 ## Samedi 14 - Habitat & Énergie
+
 * Ecoconstruction 
-* Visite d'une maison/chantier 
+* Visite de la coopérative de construction et d'habitation MOUL2
 * L'eau dans le contexte de l'habitat 
 * Utilisation de l'eau de pluie 
 * Phytoépuration 
 
 ## Dimanche 15 - Journée libre
+
 * Déplacement & journée libre 
 * Installation sur le terrain en Valais 
 
 ## Lundi 16 - Eau & sols
+
 * Observation du terrain 
 * Gestion de l'eau et du sol 
 * Exercices sur les courbes de niveau 
@@ -88,6 +96,7 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 * Groupe de design 
 
 ## Mardi 17 - Arbres
+
 * Fonctions des arbres 
 * Les arbres sur les grandes surfaces 
 * Sylviculture 
@@ -100,6 +109,7 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 * Chantier / activités pratiques 
 
 ## Mercredi 18 - Sols et plantes
+
 * Présentation d'un projet professionnel en permaculture 
 * Pédologie / Science des sols 
 * Comment faire sa terre végétale 
@@ -108,11 +118,13 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 * Chantier / activités pratiques 
 
 ## Jeudi 19 - Animaux
+
 * Gestion des animaux 
 * Agriculture de régénération 
 * Thémes d'agriculture selon les besoins (grandes cultures, viticulture, gestion des forêts, reboisement) 
 
 ## Vendredi 20 - Économie
+
 * Structure invisible 
 * Structures légales, coopératives... 
 * Planification, réalisation, gestion des récoltes 
@@ -120,10 +132,11 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 * Groupe de design 
 
 ## Samedi 21 - Design
+
 * Présentation des designs de groupe 
 * Célébration! 
 * Evalutation des cours 
 * Appréciation 
 * Certificats 
 * Tisser le réseau 
-* Rangement 
+* Rangement

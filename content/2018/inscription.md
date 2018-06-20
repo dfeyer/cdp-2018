@@ -21,13 +21,13 @@ Comptez un supplément si vous souhaitez loger en dortoir la deuxième semaine e
 
 **Un grand merci à nos bénévoles et nos partenaires**
 
-Nous souhaitions organiser un CDP accessible notamment pour les familles. Le cours est proposé pour un prix minimum et un prix de soutien. Le prix minimum est possible grâce aux bénévolats et à la forte implication des différents partenaires (Le Centre FEEL Faire L’École en Libertée, Les Jardins Permanents, la ferme du Crêt Maunet, la Motte qui Botte, L' Association Perle d’Ambre). 
+Nous souhaitions organiser un CDP accessible notamment pour les familles. Le cours est proposé pour un prix minimum et un prix de soutien. Le prix minimum est possible grâce aux bénévolats et à la forte implication des différents partenaires (Le Centre FEEL Faire L’École en Libertée, Les Jardins Permanents, la ferme du Crêt Maunet, la Motte qui Botte, L' Association Perle d’Ambre, la Coopérative de construction et d'habitation MOUL2). 
 
 À votre bonne conscience et selon vos possibilités à vous de choisir votre participation financière.
 
 [**Inscription en ligne**](https://goo.gl/forms/EST4ZJ46X2DnGVRA3)
 
-Le stage peut accueillir 25 stagiaires adultes au maximum.
+Le stage peut accueillir 20 stagiaires adultes au maximum.
 
 **Renseignements**
 

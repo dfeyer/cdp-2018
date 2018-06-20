@@ -38,9 +38,11 @@ Les enfants ne seront pas laissés pour compte, car le stage est aussi ouvert au
 
 ## Lundi 09 - introduction
 
-* Entre 11 h et 13 h, accueil et présentation, 
-* charte du stage
+* Entre 11 h et 13 h, accueil au centre FEEL et présentation, 
+* Charte du stage
 * jeux et présentation des participants.
+* Définition, historique et éthiques de la Permaculture
+* Principes de conception
 
 ## Mardi 10 - introduction
 

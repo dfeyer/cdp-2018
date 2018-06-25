@@ -1,15 +1,84 @@
 ---
 title: Informations pratiques
 ---
+# Dates et arrivées
+
+Le cours débute le lundi 9 juillet à 11 h au Centre FEEL (voir adresse plus bas sous Accès et lieu)
+
+Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le dimanche 8 juillet dans l’après-midi à la Ferme du Crêt-Maunêt. 
+
+Vous serez accueillis à partir de 14 h le dimanche 8 juillet. 
+
+Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet.
+
+Le cours se terminera le samedi 21 après-midi. 
+
+# Accès et lieux - 1re semaine - du 8 au 15 juillet
+
+## Hébergement
+
+Camping chez la famille Glayre à la Ferme du Crêt Maunêt. La famille Glayre nous accueille dans sa chaleureuse petite ferme écologique. Nous camperons dans le verger. Toilettes sèches et point d’eau extérieur pour se laver. Salle abritée en cas de pluie avec un point d’eau, coin feu et tables de pique-nique, cabanes, slakline, potager…
+
+**Adresse**: Famille Glayre, Le Crêt Maunêt, 1318 Pompaples (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018-vaud-valais-8-21-juillet-2018_26930#14/46.6704/6.5234))
+
+## Lieu de cours + repas
+
+Centre FEEL, La Filature (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018-vaud-valais-8-21-juillet-2018_26930#14/46.6704/6.5234))
+Chemin de la Condémine
+1315 La Sarraz, Suisse
+
+parking communal en face de l’entrée du chemin de la Condémine
+
+## Covoiturage
+
+Il y aura des visites sur les lieux suivants qui demanderont un covoiturage:
+
+**Mercredi 11 matin**
+Terrain de la Motte qui Botte > chantier participatif
+
+**Jeudi 12 après-midi**
+Jardin de Aino Adriaens
+Route des Vergers 8
+CH-1355 L'Abergement
+
+**Samedi 14 matin**
+Visite d’un chantier / coopérative d’habitants 
+Coopérative d’habitants MOUL2
+Rte d'Ogens 35
+1407 Bioley-Magnoux
+
+# Accès et lieux - Semaine 2 - du 15 au 21 juillet
+
+## Hébergement
+
+Notre camp de base se situera au chalet des Rousses à 1700 m d’altitude. Nous camperons autour du chalet sous les arbres ou en dortoir pour ceux qui en ont fait la demande (il reste des places pour ceux qui le souhait). Le chalet nous est réservé. Il dispose d’une grande salle commune, d’une cuisine, de sanitaires, douches, d’un coin grillade à l’extérieur. Le Chalet des Rousses se situe à Ayent (Valais central). Endroit idyllique au coeur de la forêt, au pied des alpages. Le bâtiment se trouve sur la route de montagne qui mène au barrage du Rawyl. Point de départ de multiples randonnées, balade sur
+le bisse de Sion. À 15 min à pied vous découvrez le site du barrage du Rawyl, les chutes d'eau de la Lienne, le sentier didactique qui vous promène tout autour du plan d'eau.
+
+Le Chalet des Rousses (altitude 1761m) 
+Les Rousses 
+1966 Ayent
+
+Sortie de l'autoroute, Sion Est. Suivre Ayent Anzère. Arrivé à St Romain, suivre Barrage de Tseuzier. Route de montagne. Chalet de group en haut du télésiège Les Rousses
+
+## Visites et travail de conception
+
+**Jours à définir selon l’humeur et la météo**
+terrain de recherche de l’Institut Méiose, Luc (Ayent) altitude 952 m
+
+À 5.6 km du chalet des Rousses
+
+**Mercredi 18 toute la journée** - Les Jardins Permanents 
+Adresse: rdv à la gare de Saint Léonard
+
 # Pour arriver au stage
 
 ## En train
 
 > Gare de La Sarraz, Vaud
+>
 > Horaires sur le site des CFF: https://www.sbb.ch/fr/
 
-Pensez au covoiturage pour les derniers kms depuis la gare de la Sarraz nous n’organisons pas de navette. 
-Si vous aimez marcher, il y a une balade de 40 min jusqu’au Crêt Maunet (en passant par Pompaple ou par Orny). 
+Pensez au covoiturage pour les derniers kms depuis la gare de la Sarraz nous n’organisons pas de navette.  Si vous aimez marcher, il y a une balade de 40 min jusqu’au Crêt Maunet (en passant par Pompaple ou par Orny). 
 
 ## En covoiturage
 
@@ -23,88 +92,15 @@ Cela nous permettra de savoir:
 
 Vous êtes ensuite libres de vous contacter les uns les autres pour trouver des covoitureurs et le noter sur le tableau.
 
-## Début du cours & installation
+# Votre départ en fin de stage
 
-Le cours débute le lundi 9 juillet à 11 h au Centre FEEL (voir adresse plus bas sous Accès et lieu)
+## En train
 
-Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le dimanche 8 juillet dans l’après-midi à la Ferme du Crêt-Maunêt. 
+> depuis la Gare de Sion
+>
+> Covoiturage depuis le Chalet des Rousses jusqu’à la gare de Sion ou plus loin. 
 
-Vous serez accueillis à partir de 14 h le dimanche 8 juillet. 
-
-Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet.
-
-Le cours se terminera le samedi 21 après-midi. 
-
-# 1re semaine (8 au 15 juillet)
-
-## Hébergement
-
-Camping chez la famille Glayre à la Ferme du Crêt Maunêt. La famille Glayre nous accueille dans sa chaleureuse petite ferme écologique. Nous camperons dans le verger. Toilettes sèches et point d’eau extérieur pour se laver. Salle abritée en cas de pluie avec un point d’eau, coin feu et tables de pique-nique, cabanes, slakline, potager…
-
-**Adresse**: Famille Glayre, Le Crêt Maunêt, 1318 Pompaples
-
-PLAN depuis la gare de la Sarraz
-
-## Lieu de cours + repas
-
-Centre FEEL, La Filature 
-Chemin de la Condémine
-1315 La Sarraz, Suisse
-
-parking communal en face de l’entrée du chemin de la Condémine
-
-PLAN depuis la gare
-PLAN depuis le Crêt-Maunêt
-
-## Covoiturage
-
-Il y aura des visites sur les lieux suivants qui demanderont un covoiturage:
-
-**Mercredi 11 matin**
-Terrain de la Motte qui Botte > chantier participatif
-Adresse et plan depuis le Crêt-Maunêt
-
-**Jeudi 12 après-midi**
-Jardin de Aino Adriaens
-Route des Vergers 8
-CH-1355 L'Abergement
-Adresse et plan depuis le centre FEEL
-
-**Samedi 14 matin**
-Visite d’un chantier / coopérative d’habitants 
-Coopérative d’habitants MOUL2
-Rte d'Ogens 35
-1407 Bioley-Magnoux
-
-PLAN depuis le Crêt-Maunêt
-
-# 2e semaine (15 au 21 juillet)
-
-## Hébergement
-
-Notre camp de base se situera au chalet des Rousses à 1700 m d’altitude. Nous camperons autour du chalet sous les arbres ou en dortoir pour ceux qui en ont fait la demande (il reste des places pour ceux qui le souhait). Le chalet nous est réservé. Il dispose d’une grande salle commune, d’une cuisine, de sanitaires, douches, d’un coin grillade à l’extérieur. Le Chalet des Rousses se situe à Ayent (Valais central). Endroit idyllique au coeur de la forêt, au pied des alpages. Le bâtiment se trouve sur la route de montagne qui mène au barrage du Rawyl. Point de départ de multiples randonnées, balade sur
-le bisse de Sion. À 15 min à pied vous découvrez le site du barrage du Rawyl, les chutes d'eau de la Lienne, le sentier didactique qui vous promène tout autour du plan d'eau.
-
-Le Chalet des Rousses (altitude 1761m) 
-Les Rousses 
-1966 Ayent
-
-Sortie de l'autoroute, Sion Est. Suivre Ayent Anzère. Arrivé à St Romain, suivre Barrage de Tseuzier. Route de montagne. Chalet de group en haut du télésiège Les Rousses
-
-PLAN depuis Sion
-
-## Visites et travail de conception
-
-**Jours à définir selon l’humeur et la météo**
-terrain de recherche de l’Institut Méiose, Luc (Ayent) altitude 952 m
-
-À 5.6 km du chalet des Rousses
-
-**Mercredi 18 toute la journée** - Les Jardins Permanents 
-Adresse: rdv à la gare de Saint Léonard
-PLAN du chalet des Rousse à Luc (Ayent)
-
-# Covoiturage durant le stage
+## Covoiturage durant le stage
 
 Selon les informations que chaque participant nous à transmises (voir doc covoiturage) il y a assez de place pour déplacer tout le monde. 
 Nous nous organiserons une fois sur place pour les trajets entre les différents sites et les visites ainsi que pour le partage des frais relatif à ces déplacements.
@@ -248,7 +244,7 @@ Monika propose à la vente des livres de permaculture de l'Edition Passerelle Ec
 * Patrick Whitefield, Graines de Permaculture, 11€
 * Robina McCurdy, Faire Ensemble, 18€
 
-Si un livre vous intéresse, merci de l'informer par mail: m.frank@permakultur-akademie.net  AVANT le 6 juillet si vous souhaitez qu’elle vous en apporte.
+Si un livre vous intéresse, merci de l'informer par mail: <mailto:m.frank@permakultur-akademie.net> AVANT le 6 juillet si vous souhaitez qu’elle vous en apporte.
 
 # Divers
 

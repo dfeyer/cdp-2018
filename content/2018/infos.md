@@ -257,7 +257,7 @@ Monika propose à la vente des livres de permaculture de l'Edition Passerelle Ec
 * Patrick Whitefield, Graines de Permaculture, 11€
 * Robina McCurdy, Faire Ensemble, 18€
 
-Si un livre vous intéresse, merci de l'informer par mail: m.frank@permakultur-akademie.net  AVANT le 6 juillet si vous souhaitez qu’elle vous en apporte.
+Si un livre vous intéresse, merci de l'informer par mail: <mailto:m.frank@permakultur-akademie.net> AVANT le 6 juillet si vous souhaitez qu’elle vous en apporte.
 
 # Divers
 

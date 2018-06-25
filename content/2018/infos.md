@@ -1,7 +1,29 @@
 ---
 title: Informations pratiques
 ---
-# Dates et arrivées
+# Pour arriver au stage
+
+## En train
+
+> Gare de La Sarraz, Vaud
+> Horaires sur le site des CFF: https://www.sbb.ch/fr/
+
+Pensez au covoiturage pour les derniers kms depuis la gare de la Sarraz nous n’organisons pas de navette. 
+Si vous aimez marcher, il y a une balade de 40 min jusqu’au Crêt Maunet (en passant par Pompaple ou par Orny). 
+
+## En covoiturage
+
+Pour faciliter le covoiturage pour votre arrivée et départ, nous avons mis en place un tableau collaboratif pour vous organiser (envoyé par email). 
+
+Merci à chacun de s’inscrire en précisant votre date et lieu de départ ainsi que votre mode de transport si vous ne venez pas avec votre propre véhicule.
+Cela nous permettra de savoir:
+
+* si vous avez bien reçu ces informations,
+* quand vous attendre et organiser votre installation à la Ferme du Crét- Maunêt.
+
+Vous êtes ensuite libres de vous contacter les uns les autres pour trouver des covoitureurs et le noter sur le tableau.
+
+## Début du cours & installation
 
 Le cours débute le lundi 9 juillet à 11 h au Centre FEEL (voir adresse plus bas sous Accès et lieu)
 
@@ -13,7 +35,7 @@ Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11
 
 Le cours se terminera le samedi 21 après-midi. 
 
-# Accès et lieux - 1re semaine - du 8 au 15 juillet
+# 1re semaine (8 au 15 juillet)
 
 ## Hébergement
 
@@ -56,7 +78,7 @@ Rte d'Ogens 35
 
 PLAN depuis le Crêt-Maunêt
 
-# Accès et lieux - Semaine 2 - du 15 au 21 juillet
+# 2e semaine (15 au 21 juillet)
 
 ## Hébergement
 
@@ -82,38 +104,7 @@ terrain de recherche de l’Institut Méiose, Luc (Ayent) altitude 952 m
 Adresse: rdv à la gare de Saint Léonard
 PLAN du chalet des Rousse à Luc (Ayent)
 
-# Pour arriver au stage
-
-## En train
-
-> Gare de La Sarraz, Vaud
->
-> Horaires sur le site des CFF: https://www.sbb.ch/fr/
-
-Pensez au covoiturage pour les derniers kms depuis la gare de la Sarraz nous n’organisons pas de navette. 
-Si vous aimez marcher, il y a une balade de 40 min jusqu’au Crêt Maunet (en passant par Pompaple ou par Orny). 
-
-## En covoiturage
-
-Pour faciliter le covoiturage pour votre arrivée et départ, nous avons mis en place un tableau collaboratif pour vous organiser (envoyé par email). 
-
-Merci à chacun de s’inscrire en précisant votre date et lieu de départ ainsi que votre mode de transport si vous ne venez pas avec votre propre véhicule.
-Cela nous permettra de savoir:
-
-* si vous avez bien reçu ces informations,
-* quand vous attendre et organiser votre installation à la Ferme du Crét- Maunêt.
-
-Vous êtes ensuite libres de vous contacter les uns les autres pour trouver des covoitureurs et le noter sur le tableau.
-
-# Votre départ en fin de stage
-
-## En train
-
-> depuis la Gare de Sion
->
-> Covoiturage depuis le Chalet des Rousses jusqu’à la gare de Sion ou plus loin. 
-
-## Covoiturage durant le stage
+# Covoiturage durant le stage
 
 Selon les informations que chaque participant nous à transmises (voir doc covoiturage) il y a assez de place pour déplacer tout le monde. 
 Nous nous organiserons une fois sur place pour les trajets entre les différents sites et les visites ainsi que pour le partage des frais relatif à ces déplacements.
@@ -257,7 +248,7 @@ Monika propose à la vente des livres de permaculture de l'Edition Passerelle Ec
 * Patrick Whitefield, Graines de Permaculture, 11€
 * Robina McCurdy, Faire Ensemble, 18€
 
-Si un livre vous intéresse, merci de l'informer par mail: <mailto:m.frank@permakultur-akademie.net> AVANT le 6 juillet si vous souhaitez qu’elle vous en apporte.
+Si un livre vous intéresse, merci de l'informer par mail: m.frank@permakultur-akademie.net  AVANT le 6 juillet si vous souhaitez qu’elle vous en apporte.
 
 # Divers
 

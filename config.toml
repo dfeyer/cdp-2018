@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "fr-ch"
 theme = "perma"
-title = "CDP Vaud-Valais · 9 au 22 juillet 2018"
+title = "CDP Vaud-Valais · 9 au 21 juillet 2018"
 
 [params]
   subscriptionUrl = "/2018/inscription#content"

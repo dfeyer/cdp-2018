@@ -41,6 +41,12 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+      - label: "2018 / Informations Pratiques"
+        name: "2018-infos"
+        file: "content/2018/infos.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
   - name: "formateur"
     label: "2018 / Formateurs"
     folder: "content/2018/equipe/formateurs"

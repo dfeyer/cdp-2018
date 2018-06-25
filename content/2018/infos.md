@@ -87,6 +87,7 @@ PLAN du chalet des Rousse à Luc (Ayent)
 ## En train
 
 > Gare de La Sarraz, Vaud
+>
 > Horaires sur le site des CFF: https://www.sbb.ch/fr/
 
 Pensez au covoiturage pour les derniers kms depuis la gare de la Sarraz nous n’organisons pas de navette. 
@@ -109,6 +110,7 @@ Vous êtes ensuite libres de vous contacter les uns les autres pour trouver des 
 ## En train
 
 > depuis la Gare de Sion
+>
 > Covoiturage depuis le Chalet des Rousses jusqu’à la gare de Sion ou plus loin. 
 
 ## Covoiturage durant le stage

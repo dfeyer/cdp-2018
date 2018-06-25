@@ -1,5 +1,5 @@
 ---
-title: CDP Vaud-Valais · 9 au 22 juillet 2018
+title: CDP Vaud-Valais · 9 au 21 juillet 2018
 ---
 Découvrir ou approfondir vos connaissances en permaculture, tisser des liens, en
 partant à la rencontre de personnes et de lieux innovants et inspirants.

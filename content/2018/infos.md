@@ -5,7 +5,7 @@ title: Informations pratiques
 
 ## En train
 
-> Gare de La Sarraz, Vaud
+> Gare de La Sarraz, Vaud  (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018-vaud-valais-8-21-juillet-2018_26930#14/46.6704/6.5234))
 > Horaires sur le site des CFF: https://www.sbb.ch/fr/
 
 Pensez au covoiturage pour les derniers kms depuis la gare de la Sarraz nous n’organisons pas de navette. 
@@ -41,20 +41,15 @@ Le cours se terminera le samedi 21 après-midi.
 
 Camping chez la famille Glayre à la Ferme du Crêt Maunêt. La famille Glayre nous accueille dans sa chaleureuse petite ferme écologique. Nous camperons dans le verger. Toilettes sèches et point d’eau extérieur pour se laver. Salle abritée en cas de pluie avec un point d’eau, coin feu et tables de pique-nique, cabanes, slakline, potager…
 
-**Adresse**: Famille Glayre, Le Crêt Maunêt, 1318 Pompaples
-
-PLAN depuis la gare de la Sarraz
+**Adresse**: Famille Glayre, Le Crêt Maunêt, 1318 Pompaples (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018-vaud-valais-8-21-juillet-2018_26930#14/46.6704/6.5234))
 
 ## Lieu de cours + repas
 
-Centre FEEL, La Filature 
+Centre FEEL, La Filature (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018-vaud-valais-8-21-juillet-2018_26930#14/46.6704/6.5234))
 Chemin de la Condémine
 1315 La Sarraz, Suisse
 
 parking communal en face de l’entrée du chemin de la Condémine
-
-PLAN depuis la gare
-PLAN depuis le Crêt-Maunêt
 
 ## Covoiturage
 
@@ -62,21 +57,17 @@ Il y aura des visites sur les lieux suivants qui demanderont un covoiturage:
 
 **Mercredi 11 matin**
 Terrain de la Motte qui Botte > chantier participatif
-Adresse et plan depuis le Crêt-Maunêt
 
 **Jeudi 12 après-midi**
 Jardin de Aino Adriaens
 Route des Vergers 8
 CH-1355 L'Abergement
-Adresse et plan depuis le centre FEEL
 
 **Samedi 14 matin**
 Visite d’un chantier / coopérative d’habitants 
 Coopérative d’habitants MOUL2
 Rte d'Ogens 35
 1407 Bioley-Magnoux
-
-PLAN depuis le Crêt-Maunêt
 
 # 2e semaine (15 au 21 juillet)
 
@@ -91,8 +82,6 @@ Les Rousses
 
 Sortie de l'autoroute, Sion Est. Suivre Ayent Anzère. Arrivé à St Romain, suivre Barrage de Tseuzier. Route de montagne. Chalet de group en haut du télésiège Les Rousses
 
-PLAN depuis Sion
-
 ## Visites et travail de conception
 
 **Jours à définir selon l’humeur et la météo**
@@ -102,7 +91,6 @@ terrain de recherche de l’Institut Méiose, Luc (Ayent) altitude 952 m
 
 **Mercredi 18 toute la journée** - Les Jardins Permanents 
 Adresse: rdv à la gare de Saint Léonard
-PLAN du chalet des Rousse à Luc (Ayent)
 
 # Covoiturage durant le stage
 

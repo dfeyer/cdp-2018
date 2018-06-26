@@ -51,7 +51,7 @@ Chemin de la Condémine
 
 parking communal en face de l’entrée du chemin de la Condémine
 
-## Covoiturage
+## Visites
 
 Il y aura des visites sur les lieux suivants qui demanderont un covoiturage:
 

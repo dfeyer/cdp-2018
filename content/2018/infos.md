@@ -3,11 +3,9 @@ title: Informations pratiques
 ---
 # Début du cours & installation
 
-Le cours débute le lundi 9 juillet à 11 h au Centre FEEL (voir adresse et carte plus bas)
+Le cours débute le **lundi 9 juillet à 11 h au Centre FEEL** (voir adresse et carte plus bas)
 
-Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le dimanche 8 juillet dans l’après-midi à la Ferme du Crêt Maunêt. 
-
-Vous serez accueillis à partir de 14 h le dimanche 8 juillet. 
+Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le **dimanche 8 juillet dès 14h à la Ferme du Crêt Maunêt **(camping). 
 
 Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet.
 
@@ -16,6 +14,7 @@ Le cours se terminera le samedi 21 après-midi.
 # Pour arriver au stage
 
 ## En train
+
 Gare de La Sarraz, (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018-vaud-valais-8-21-juillet-2018_26930#14/46.6704/6.5234))
 Horaires sur le site des CFF: https://www.sbb.ch/fr/
 

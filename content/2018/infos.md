@@ -5,9 +5,9 @@ title: Informations pratiques
 
 Le cours débute le **lundi 9 juillet à 11 h au Centre FEEL** (voir adresse et carte plus bas)
 
-Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le **dimanche 8 juillet dès 14h à la Ferme du Crêt Maunêt **(camping). 
+Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le dimanche 8 juillet dès 14h à la Ferme du Crêt Maunêt (lieu d'hébergement de la 1ère semaine voir adresse et carte plus bas). 
 
-Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet.
+Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet au Centre FEEL.
 
 Le cours se terminera le samedi 21 après-midi.
 
@@ -29,7 +29,7 @@ Merci à chacun de s’inscrire en précisant votre date et lieu de départ ains
 Cela nous permettra de savoir:
 
 * si vous avez bien reçu ces informations,
-* quand vous attendre et organiser votre installation à la Ferme du Crét- Maunêt.
+* quand vous attendre et organiser votre installation à la Ferme du Crêt Maunêt.
 
 Vous êtes ensuite libres de vous contacter les uns les autres pour trouver des covoitureurs et le noter sur le tableau. 
 
@@ -47,7 +47,7 @@ Centre FEEL, La Filature (voir [Carte des lieux](https://framacarte.org/fr/map/c
 Chemin de la Condémine
 1315 La Sarraz, Suisse
 
-parking communal en face de l’entrée du chemin de la Condémine
+Parking communal en face de l’entrée du chemin de la Condémine
 
 ## Visites
 
@@ -55,6 +55,8 @@ Il y aura des visites sur les lieux suivants qui demanderont un covoiturage:
 
 **Mercredi 11 matin**
 Terrain de la Motte qui Botte > chantier participatif
+Route cantonale, à l'entrée de la compostière de la Venoge
+Cossonay
 
 **Jeudi 12 après-midi**
 Jardin de Aino Adriaens
@@ -120,7 +122,7 @@ Le premier repas préparé avec Olivier, notre chef cuisinier, sera le lundi 9 a
 
 # Liste du matériel à apporter
 
-Pour les cours et le design de groupe:
+**Pour les cours et le design de groupe**
 
 * Carnet 
 * Feutres de couleur larges et fins
@@ -133,12 +135,12 @@ Pour les cours et le design de groupe:
 * Règle
 * 4 feuilles blanches, vierges (si possible cartonnées)
 * Papier calque
-* Outils de dessin: crayons de couleur, pastel, aquarelle, etc.
+* Outils de dessin: crayons de couleur, pastel, aquarelle, etc,…
 * Une clé USB grande capacité ou disque dur externe pour les échanges de documents
 * Un plaid pour le sol
 * Éventuellement un coussin pour vous assoir par terre
 
-Pour les travaux en extérieur:
+**Pour les travaux en extérieur**
 
 Selon ce que vous avez et que vous êtes en mesure de transporter!
 
@@ -176,7 +178,7 @@ Chaque stagiaire est autonome (prévoir selon vos habitudes, mais au minimum les
 
 NB: Pour ne pas plus vous charger, notez qu’il y aura la possibilité de faire des lessives à la main la première semaine et en machine la deuxième.
 
-**Repas et cueillettes**
+# Repas et cueillettes
 
 * Un plat ou autre victuaille a partager pour le premier repas commun avec toute l’équipe pour le lundi 9 midi.
 * Un bol/assiette ou une grande tasse

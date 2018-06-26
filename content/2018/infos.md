@@ -99,9 +99,9 @@ Merci aux familles sans véhicules d’apporter des réhausseurs pour vos enfant
 
 # Repas
 
-**Si vous arrivez le dimanche 8 juillet**: pensez à prendre quelque chose pour vous ou à partager pour le 8 au soir et le 9 au matin. 
+**Si vous arrivez le dimanche 8 juillet**: pensez à prendre quelque chose à partager pour les repas du 8 au soir et le 9 au matin. 
 
-En cas de besoin, il y a des magasins d’alimentation entre la Sarraz et la Ferme du Crêt-Maunêt.
+Il y a des magasins d’alimentation entre La Sarraz et la Ferme du Crêt Maunêt.
 
 **Al’Unisson** - Magasin de produits locaux, médecines naturelles
 Route de Saint-Loup 1, 1318 Pompaples
@@ -118,9 +118,9 @@ Le premier repas du stage aura lieu au centre FEEL le lundi 9 midi également en
 
 Le premier repas préparé avec Olivier, notre chef cuisinier, sera le lundi 9 au soir.
 
-# Liste du matériel à apporter
+# Liste du matériel que nous vous conseillons d'apporter
 
-Pour les cours et le design de groupe:
+**Pour les cours et le design de groupe**
 
 * Carnet 
 * Feutres de couleur larges et fins
@@ -138,16 +138,16 @@ Pour les cours et le design de groupe:
 * Un plaid pour le sol
 * Éventuellement un coussin pour vous assoir par terre
 
-Pour les travaux en extérieur:
+**Pour les travaux en extérieur**
 
 Selon ce que vous avez et que vous êtes en mesure de transporter!
 
 * Sécateur
-* Une petite scie d’élagage (scie rétractable) 
-* cisaille
+* Petite scie d’élagage (scie rétractable) 
+* Cisaille
 * Gants de travail
 
-# Pharmacie
+**Pharmacie**
 
 Chaque stagiaire est autonome (prévoir selon vos habitudes, mais au minimum les pansements et le nécessaire pour retirer les tiques et éloigner les moustiques)
 
@@ -157,7 +157,7 @@ Chaque stagiaire est autonome (prévoir selon vos habitudes, mais au minimum les
 * Un sac à viande
 * Un matelas de sol
 * Tente  
-* bonnet pour les nuits fraiches en montagne
+* Bonnet pour les nuits fraiches en montagne
 
 **Pour la toilette**
 
@@ -179,8 +179,8 @@ NB: Pour ne pas plus vous charger, notez qu’il y aura la possibilité de faire
 # Repas et cueillettes
 
 * Un plat ou autre victuaille a partager pour le premier repas commun avec toute l’équipe pour le lundi 9 midi.
-* Un bol/assiette ou une grande tasse
-* Une grande cuillère et/ou fourchette
+* Un bol ou une grande tasse
+* Une grande cuillère
 * Un couteau
 * Une gourde ou un thermos
 * Un sac en tissus pour récolter des plantes
@@ -188,7 +188,7 @@ NB: Pour ne pas plus vous charger, notez qu’il y aura la possibilité de faire
 
 # Transport des enfants
 
-Réhausseur pour les trajets en voiture (enfants de moins de 150cm s’ils ont moins de 12 ans)
+* Réhausseur pour les trajets en voiture (enfants de moins de 150cm s’ils ont moins de 12 ans)
 
 # Assurances et responsabilité
 
@@ -198,9 +198,9 @@ Les organisateurs et accompagnants déclinent toute responsabilité en cas d’a
 
 Le règlement ou la preuve de celui-ci vous sera demandé à votre arrivée.
 
-Merci de bien vouloir verser le solde des frais sur le compte de l’association:
+Merci de bien vouloir verser le solde des frais sur le compte de l’association
 
-**Par virement:**
+**Par virement**
 
 Celui-ci devra être crédité sur le compte de l’association avant la date de l’entrée en stage. Merci d’effectuer votre versement d’ici au 6/7 juillet afin que celui-ci soit effectif le 9 juillet.
 Compter 4 jrs pour un paiement depuis la France.
@@ -214,15 +214,15 @@ Morges Venoge 1025 St-Sulpice VD
 
 Motif de versement: solde CDP juillet 2018
 
-**En espèce:**
+**Ou en espèce**
 
-Il est également possible de régler en liquide (CHF ou EUR au tx de change de 0,86) le jour de votre arrivée.
+Il est également possible de régler en liquide (CHF ou EUR tx de change de 0,86) le jour de votre arrivée.
 Nous n’acceptons pas les chèques.
 
 # Place du marché et Bibliothèque/médiathèque
 
 La « Place du Marché » est un espace où tout le monde peut échanger, troquer, acheter/vendre. 
-Il ne s'agit pas de remplir les porte-monnaie, mais plutôt de parler des produits, des recettes, des savoir-faire, faire découvrir vos produits, ou simplement partager et échanger.
+Il ne s'agit pas de remplir les porte-monnaie, mais plutôt de faire découvrir et partager des produits, des recettes, des savoir-faire.
 
 Un espace « bibliothèque/médiathèque » où vous pourrez déposer vos livres de permaculture et d'autres thématiques qui vous tiennent à cœur, pour fournir la bibliothèque du stage. 
 Pensez bien à mettre vos noms sur les livres. Vous pouvez également apporter vos films (documentaires) préférés sur DVD ou clé-USB.

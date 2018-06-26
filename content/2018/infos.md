@@ -234,16 +234,16 @@ Monika propose à la vente des livres de permaculture de l'Edition Passerelle Ec
 * Patrick Whitefield, Graines de Permaculture, 11€
 * Robina McCurdy, Faire Ensemble, 18€
 
-Si un livre vous intéresse, merci de l'informer par mail: m.frank@permakultur-akademie.net  AVANT le 6 juillet si vous souhaitez qu’elle vous en apporte.
+Si un livre vous intéresse, merci de l'informer par mail: m.frank@permakultur-akademie.net  avant le 6 juillet.
 
 # Divers
 
-Si vous disposez et jouez d'un petit instrument de musique pas trop encombrant, prenez-le ! C'est avec plaisir qu’ils égaieront les soirées. 
- Pour ne pas perturber les animaux déjà présents sur le lieu, les animaux extérieurs ne sont à priori pas admis.
+Si vous disposez et jouez d'un petit instrument de musique pas trop encombrant, prenez-le !  C'est avec plaisir qu’ils égaieront les soirées. 
+Pour ne pas perturber les animaux déjà présents sur le lieu, les animaux extérieurs ne sont à priori pas admis.
 
 # Récap pour préparer votre départ
 
-* Compléter ou mettre à jour le fichier covoiturage envoyé par email
+* Compléter ou mettre à jour le fichier covoiturage (lien envoyé par email)
 * Verser le solde de votre participation aux frais (sauf si paiement en espèce sur place).
 * Préparer vos affaires selon la liste de matériel conseillé ci-dessus
 * Et c’est parti pour une belle aventure. 

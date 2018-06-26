@@ -81,7 +81,7 @@ Les Rousses
 
 Sortie de l'autoroute, Sion Est. Suivre Ayent Anzère. Arrivé à St Romain, suivre Barrage de Tseuzier. Route de montagne. Chalet de group en haut du télésiège Les Rousses.
 
-## Visites et travail de conception
+## Visites
 
 **Jours à définir selon l’humeur et la météo**
 terrain de recherche de l’Institut Méiose, Luc (Ayent) altitude 952 m et à 5.6 km du chalet des Rousses

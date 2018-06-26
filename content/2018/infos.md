@@ -29,7 +29,7 @@ Merci à chacun de s’inscrire en précisant votre date et lieu de départ ains
 Cela nous permettra de savoir:
 
 * si vous avez bien reçu ces informations,
-* quand vous attendre et organiser votre installation à la Ferme du Crét Maunêt.
+* quand vous attendre et organiser votre installation à la Ferme du Crêt Maunêt.
 
 Vous êtes ensuite libres de vous contacter les uns les autres pour trouver des covoitureurs et le noter sur le tableau. 
 
@@ -55,6 +55,8 @@ Il y aura des visites sur les lieux suivants qui demanderont un covoiturage:
 
 **Mercredi 11 matin**
 Terrain de la Motte qui Botte > chantier participatif
+Route cantonale, à l'entrée de la compostière de la Venoge
+Cossonay
 
 **Jeudi 12 après-midi**
 Jardin de Aino Adriaens

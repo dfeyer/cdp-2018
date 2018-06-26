@@ -5,9 +5,9 @@ title: Informations pratiques
 
 Le cours débute le **lundi 9 juillet à 11 h au Centre FEEL** (voir adresse et carte plus bas)
 
-Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le **dimanche 8 juillet dès 14h à la Ferme du Crêt Maunêt **(camping). 
+Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le dimanche 8 juillet dès 14h à la Ferme du Crêt Maunêt (lieu d'hébergement de la 1ère semaine voir adresse et carte plus bas). 
 
-Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet.
+Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet au Centre FEEL.
 
 Le cours se terminera le samedi 21 après-midi.
 
@@ -29,7 +29,7 @@ Merci à chacun de s’inscrire en précisant votre date et lieu de départ ains
 Cela nous permettra de savoir:
 
 * si vous avez bien reçu ces informations,
-* quand vous attendre et organiser votre installation à la Ferme du Crét- Maunêt.
+* quand vous attendre et organiser votre installation à la Ferme du Crêt Maunêt.
 
 Vous êtes ensuite libres de vous contacter les uns les autres pour trouver des covoitureurs et le noter sur le tableau. 
 
@@ -47,7 +47,7 @@ Centre FEEL, La Filature (voir [Carte des lieux](https://framacarte.org/fr/map/c
 Chemin de la Condémine
 1315 La Sarraz, Suisse
 
-parking communal en face de l’entrée du chemin de la Condémine
+Parking communal en face de l’entrée du chemin de la Condémine
 
 ## Visites
 
@@ -55,6 +55,8 @@ Il y aura des visites sur les lieux suivants qui demanderont un covoiturage:
 
 **Mercredi 11 matin**
 Terrain de la Motte qui Botte > chantier participatif
+Route cantonale, à l'entrée de la compostière de la Venoge
+Cossonay
 
 **Jeudi 12 après-midi**
 Jardin de Aino Adriaens

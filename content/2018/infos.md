@@ -3,7 +3,7 @@ title: Informations pratiques
 ---
 # Début du cours & installation
 
-Le cours débute le lundi 9 juillet à 11 h au Centre FEEL (voir adresse plus bas sous Accès et lieu)
+Le cours débute le lundi 9 juillet à 11 h au Centre FEEL (voir adresse et carte plus bas)
 
 Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le dimanche 8 juillet dans l’après-midi à la Ferme du Crêt Maunêt. 
 
@@ -17,7 +17,7 @@ Le cours se terminera le samedi 21 après-midi.
 
 ## En train
 
-Gare de La Sarraz, Vaud  (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018-vaud-valais-8-21-juillet-2018_26930#14/46.6704/6.5234))
+Gare de La Sarraz, (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018-vaud-valais-8-21-juillet-2018_26930#14/46.6704/6.5234))
 Horaires sur le site des CFF: https://www.sbb.ch/fr/
 
 Pensez au covoiturage pour les derniers kms depuis la gare de la Sarraz. Nous n’organisons pas de navette. 

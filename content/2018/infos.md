@@ -47,19 +47,21 @@ Centre FEEL, La Filature (voir [Carte des lieux](https://framacarte.org/fr/map/c
 Chemin de la Condémine
 1315 La Sarraz, Suisse
 
-parking communal en face de l’entrée du chemin de la Condémine
+Parking en face de l’entrée du chemin de la Condémine
 
 ## Covoiturage
 
 Il y aura des visites sur les lieux suivants qui demanderont un covoiturage:
 
 **Mercredi 11 matin**
-Terrain de la Motte qui Botte > chantier participatif
+Terrain de la Motte qui Botte\
+route cantonale, devant la compostière de la Venoge\
+Cossonay
 
 **Jeudi 12 après-midi**
 Jardin de Aino Adriaens
-Route des Vergers 8
-CH-1355 L'Abergement
+Route des Vergers 8\
+1355 L'Abergement
 
 **Samedi 14 matin**
 Visite d’un chantier / coopérative d’habitants 

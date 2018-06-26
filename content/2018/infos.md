@@ -49,7 +49,7 @@ Chemin de la Condémine
 
 Parking en face de l’entrée du chemin de la Condémine
 
-## Covoiturage
+## Visites
 
 Il y aura des visites sur les lieux suivants qui demanderont un covoiturage:
 
@@ -243,7 +243,7 @@ Pour ne pas perturber les animaux déjà présents sur le lieu, les animaux ext�
 
 # Récap pour préparer votre départ
 
-* Compléter ou mettre à jour le fichier covoiturage (lien envoyé par email)
+* Compléter ou mettre à jour le fichier d'arrivée / covoiturage (lien envoyé par email)
 * Verser le solde de votre participation aux frais (sauf si paiement en espèce sur place).
 * Préparer vos affaires selon la liste de matériel conseillé ci-dessus
 * Et c’est parti pour une belle aventure. 

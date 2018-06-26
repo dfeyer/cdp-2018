@@ -5,7 +5,7 @@ title: Informations pratiques
 
 Le cours débute le **lundi 9 juillet à 11 h au Centre FEEL** (voir adresse et carte plus bas)
 
-Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le **dimanche 8 juillet dès 14h à la Ferme du Crêt Maunêt **(camping). 
+Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le dimanche 8 juillet dès 14h à la Ferme du Crêt Maunêt (lieu d'hébergement de la 1ère semaine voir adresse et carte plus bas). 
 
 Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet.
 

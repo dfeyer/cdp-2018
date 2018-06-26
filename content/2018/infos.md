@@ -73,31 +73,29 @@ Rte d'Ogens 35
 
 ## Hébergement
 
-Notre camp de base se situera au chalet des Rousses à 1700 m d’altitude. Nous camperons autour du chalet sous les arbres ou en dortoir pour ceux qui en ont fait la demande (il reste des places pour ceux qui le souhait). Le chalet nous est réservé. Il dispose d’une grande salle commune, d’une cuisine, de sanitaires, douches, d’un coin grillade à l’extérieur. Le Chalet des Rousses se situe à Ayent (Valais central). Endroit idyllique au coeur de la forêt, au pied des alpages. Le bâtiment se trouve sur la route de montagne qui mène au barrage du Rawyl. Point de départ de multiples randonnées, balade sur
-le bisse de Sion. À 15 min à pied vous découvrez le site du barrage du Rawyl, les chutes d'eau de la Lienne, le sentier didactique qui vous promène tout autour du plan d'eau.
+Notre camp de base se situera au chalet des Rousses à 1700 m d’altitude. Nous camperons autour du chalet sous les arbres ou en dortoir pour ceux qui en ont fait la demande (il reste des places pour ceux qui le souhait). Le chalet nous est réservé. Il dispose d’une grande salle commune, d’une cuisine, de sanitaires, douches, d’un coin grillade à l’extérieur. Le Chalet des Rousses se situe au coeur de la forêt, au pied des alpages. Le bâtiment se trouve sur la route de montagne qui mène au barrage du Rawyl. Point de départ de multiples randonnées, bisse de Sion, site du barrage du Rawyl à 15 min à pied, chutes d'eau de la Lienne, sentier didactique qui vous promène tout autour du plan d'eau...
 
-Le Chalet des Rousses (altitude 1761m) 
+Le Chalet des Rousses
 Les Rousses 
 1966 Ayent
 
-Sortie de l'autoroute, Sion Est. Suivre Ayent Anzère. Arrivé à St Romain, suivre Barrage de Tseuzier. Route de montagne. Chalet de group en haut du télésiège Les Rousses
+Sortie de l'autoroute, Sion Est. Suivre Ayent Anzère. Arrivé à St Romain, suivre Barrage de Tseuzier. Route de montagne. Chalet de group en haut du télésiège Les Rousses.
 
 ## Visites et travail de conception
 
 **Jours à définir selon l’humeur et la météo**
-terrain de recherche de l’Institut Méiose, Luc (Ayent) altitude 952 m
+terrain de recherche de l’Institut Méiose, Luc (Ayent) altitude 952 m et à 5.6 km du chalet des Rousses
 
-À 5.6 km du chalet des Rousses
-
-**Mercredi 18 toute la journée** - Les Jardins Permanents 
+**Mercredi 18 toute la journée**\
+Les Jardins Permanents 
 Adresse: rdv à la gare de Saint Léonard
 
 # Covoiturage durant le stage
 
-Selon les informations que chaque participant nous à transmises (voir doc covoiturage) il y a assez de place pour déplacer tout le monde. 
+Selon les informations transmises par les participants (voir doc covoiturage) il y a assez de place pour déplacer tout le monde durant le stage. 
 Nous nous organiserons une fois sur place pour les trajets entre les différents sites et les visites ainsi que pour le partage des frais relatif à ces déplacements.
 
-Merci aux familles sans véhicules d’apporter des réhausseurs pour vos enfants qui en auraient besoin (moins de 150 cm et moins de 12 ans).
+Merci aux familles sans véhicules d’apporter des réhausseurs pour vos enfants qui en auraient besoin (enfants mesurant moins de 150 cm).
 
 # Repas
 

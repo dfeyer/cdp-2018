@@ -147,7 +147,7 @@ Selon ce que vous avez et que vous êtes en mesure de transporter!
 * cisaille
 * Gants de travail
 
-# Pharmacie
+**Pharmacie**
 
 Chaque stagiaire est autonome (prévoir selon vos habitudes, mais au minimum les pansements et le nécessaire pour retirer les tiques et éloigner les moustiques)
 
@@ -176,7 +176,7 @@ Chaque stagiaire est autonome (prévoir selon vos habitudes, mais au minimum les
 
 NB: Pour ne pas plus vous charger, notez qu’il y aura la possibilité de faire des lessives à la main la première semaine et en machine la deuxième.
 
-# Repas et cueillettes
+**Repas et cueillettes**
 
 * Un plat ou autre victuaille a partager pour le premier repas commun avec toute l’équipe pour le lundi 9 midi.
 * Un bol/assiette ou une grande tasse

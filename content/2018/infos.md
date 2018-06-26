@@ -8,30 +8,28 @@ title: Informations pratiques
 > Gare de La Sarraz, Vaud  (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018-vaud-valais-8-21-juillet-2018_26930#14/46.6704/6.5234))
 > Horaires sur le site des CFF: https://www.sbb.ch/fr/
 
-Pensez au covoiturage pour les derniers kms depuis la gare de la Sarraz nous n’organisons pas de navette. 
-Si vous aimez marcher, il y a une balade de 40 min jusqu’au Crêt Maunet (en passant par Pompaple ou par Orny). 
+Pensez au covoiturage pour les derniers kms depuis la gare de La Sarraz, nous n’organisons pas de navette. 
+Si vous aimez marcher, il y a une jolie balade de 40 min jusqu’au Crêt Maunêt (en passant par Pompaples ou par Orny). 
 
 ## En covoiturage
 
-Pour faciliter le covoiturage pour votre arrivée et départ, nous avons mis en place un tableau collaboratif pour vous organiser (envoyé par email). 
+Pour faciliter le covoiturage pour votre arrivée et départ, nous avons mis en place un tableau collaboratif en ligne pour vous organiser (lien envoyé par email). 
 
-Merci à chacun de s’inscrire en précisant votre date et lieu de départ ainsi que votre mode de transport si vous ne venez pas avec votre propre véhicule.
+Merci à chacun d'y préciser votre date et lieu de départ ainsi que votre mode de transport si vous ne venez pas avec votre propre véhicule.
 Cela nous permettra de savoir:
 
 * si vous avez bien reçu ces informations,
-* quand vous attendre et organiser votre installation à la Ferme du Crét- Maunêt.
+* quand vous attendre et organiser votre installation à la Ferme du Crêt- Maunêt.
 
 Vous êtes ensuite libres de vous contacter les uns les autres pour trouver des covoitureurs et le noter sur le tableau.
 
 ## Début du cours & installation
 
-Le cours débute le lundi 9 juillet à 11 h au Centre FEEL (voir adresse plus bas sous Accès et lieu)
+Le cours débute le **lundi 9 juillet à 11 h au Centre FEEL** (voir adresse plus bas sous Accès et lieu)
 
-Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le dimanche 8 juillet dans l’après-midi à la Ferme du Crêt-Maunêt. 
+Pour des questions pratiques, vous installer et faire connaissance, il est conseillé d’arriver la veille, le **dimanche 8 juillet dans l’après-midi dès 14h à la Ferme du Crêt-Maunêt (camping).** 
 
-Vous serez accueillis à partir de 14 h le dimanche 8 juillet. 
-
-Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet.
+Si vous ne pouvez pas faire autrement merci d’arriver impérativement avant 11 h du matin le lundi 9 juillet (Centre FEEL).
 
 Le cours se terminera le samedi 21 après-midi. 
 

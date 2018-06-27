@@ -103,16 +103,14 @@ Merci aux familles sans véhicules d’apporter des réhausseurs pour vos enfant
 
 En cas de besoin, il y a des magasins d’alimentation entre la Sarraz et la Ferme du Crêt-Maunêt.
 
-**Al’Unisson** - Magasin de produits locaux, médecines naturelles
-Route de Saint-Loup 1, 1318 Pompaples
-Ouvert les jeudis, vendredi (8h30 – 18h) et samedi (8h30 – 14h)
-
-**Marché Ciboulette**
-Ouvert 7/7 selon horraires: http://www.laciboulette.ch/magasin/
-Route de La Sarraz 35, 1317 Orny
-
-**Denner**
-Route du Milieu du Monde 13, 1318 Pompaples
+* **Al’Unisson** - Magasin de produits locaux, médecines naturelles
+  Route de Saint-Loup 1, 1318 Pompaples
+  Ouvert les jeudis, vendredi (8h30 – 18h) et samedi (8h30 – 14h)
+* **Marché Ciboulette**
+  Ouvert 7/7 selon horraires: http://www.laciboulette.ch/magasin/
+  Route de La Sarraz 35, 1317 Orny
+* **Denner**
+  Route du Milieu du Monde 13, 1318 Pompaples
 
 Le premier repas du stage aura lieu au centre FEEL le lundi 9 midi également en mode « canadien » (chacun apporte quelque chose à partager spécialité locale ou ce qui vous chante).
 

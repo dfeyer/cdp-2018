@@ -185,16 +185,18 @@ NB: Pour ne pas plus vous charger, notez qu’il y aura la possibilité de faire
 # Repas et cueillettes
 
 * Un plat ou autre victuaille a partager pour le premier repas commun avec toute l’équipe pour le lundi 9 midi.
-* Un bol/assiette ou une grande tasse
+* Un bol ou une grande tasse
+* Une assiette
 * Une grande cuillère et/ou fourchette
 * Un couteau
 * Une gourde ou un thermos
 * Un sac en tissus pour récolter des plantes
 * Une boîte hermétique pour transporter les repas à prendre à l’extérieur
+* Éventuellement vos tisanes et sirops maison préférés à partager!
 
 # Transport des enfants
 
-Réhausseur pour les trajets en voiture (enfants de moins de 150cm s’ils ont moins de 12 ans)
+* Réhausseur pour les trajets en voiture (enfants de moins de 150cm s’ils ont moins de 12 ans)
 
 # Assurances et responsabilité
 

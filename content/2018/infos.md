@@ -149,7 +149,12 @@ Selon ce que vous avez et que vous êtes en mesure de transporter!
 
 **Pharmacie**
 
-Chaque stagiaire est autonome (prévoir selon vos habitudes, mais au minimum les pansements et le nécessaire pour retirer les tiques et éloigner les moustiques)
+Chaque stagiaire est autonome. Prévoir selon vos habitudes, mais au minimum:
+
+* pansements
+* pince à tiques (surtout vous sonder régulièrement)
+* de quoi éloigner les moustiques
+* protection solaire
 
 **Pour dormir et camper**
 

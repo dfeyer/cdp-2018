@@ -47,7 +47,9 @@ Centre FEEL, La Filature (voir [Carte des lieux](https://framacarte.org/fr/map/c
 Chemin de la Condémine
 1315 La Sarraz, Suisse
 
-Parking communal en face de l’entrée du chemin de la Condémine
+Parking communal en face de l’entrée du chemin de la Condémine, à côté du terrain de sport.
+
+4 km séparent le lieu d'hébergement (Ferme du Crêt Maunêt) et le centre FEEL.
 
 ## Visites
 

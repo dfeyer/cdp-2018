@@ -178,8 +178,9 @@ Chaque stagiaire est autonome. Prévoir selon vos habitudes, mais au minimum:
 * Des chaussures plus légères
 * Prévoir une tenue différente qui ne craigne rien pour les travaux en extérieur
 * Vêtements de change
+* morceau de savon de Marseille ou autre produit biodégradable pour la lessive.
 
-NB: Pour ne pas plus vous charger, notez qu’il y aura la possibilité de faire des lessives à la main la première semaine et en machine la deuxième.
+NB: Pour ne pas plus vous charger, notez qu’il y aura la possibilité de faire des **lessives** à la main la première semaine et en machine la deuxième.
 
 # Repas et cueillettes
 

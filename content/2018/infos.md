@@ -135,7 +135,7 @@ Le premier repas préparé avec Olivier, notre chef cuisinier, sera le lundi 9 a
 * Une clé USB grande capacité ou disque dur externe pour les échanges de documents
 * Un plaid pour le sol
 * Éventuellement un coussin pour vous assoir par terre
-* Eventuellement adaptateur électrique France > Suisse
+* Eventuellement adaptateur électrique France > Suisse (pour les français :)
 
 **Pour les travaux en extérieur**
 

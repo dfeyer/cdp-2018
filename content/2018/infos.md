@@ -227,10 +227,12 @@ Motif de versement: solde CDP juillet 2018
 Il est également possible de régler en liquide (CHF ou EUR au tx de change de 0,86) le jour de votre arrivée.
 Nous n’acceptons pas les chèques.
 
-# Place du marché et Bibliothèque/médiathèque
+# Place du marché et Bibliothèque/médiathèque/troc de graines
 
 La « Place du Marché » est un espace où tout le monde peut échanger, troquer, acheter/vendre. 
 Il ne s'agit pas de remplir les porte-monnaie, mais plutôt de parler des produits, des recettes, des savoir-faire, faire découvrir vos produits, ou simplement partager et échanger.
+
+\- des graines de potager à troquer avec les autres
 
 Un espace « bibliothèque/médiathèque » où vous pourrez déposer vos livres de permaculture et d'autres thématiques qui vous tiennent à cœur, pour fournir la bibliothèque du stage. 
 Pensez bien à mettre vos noms sur les livres. Vous pouvez également apporter vos films (documentaires) préférés sur DVD ou clé-USB.

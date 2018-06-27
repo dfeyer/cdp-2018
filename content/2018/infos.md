@@ -92,7 +92,7 @@ Adresse: rdv à la gare de Saint Léonard
 
 # Covoiturage durant le stage
 
-Selon les informations que chaque participant nous à transmises (voir doc covoiturage) il y a assez de place pour déplacer tout le monde. 
+Selon les informations que chaque participant nous à transmises (voir doc arrivées / covoiturage) il y a assez de place pour déplacer tout le monde. 
 Nous nous organiserons une fois sur place pour les trajets entre les différents sites et les visites ainsi que pour le partage des frais relatif à ces déplacements.
 
 Merci aux familles sans véhicules d’apporter des réhausseurs pour vos enfants qui en auraient besoin (moins de 150 cm et moins de 12 ans).

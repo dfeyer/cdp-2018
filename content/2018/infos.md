@@ -144,6 +144,7 @@ Selon ce que vous avez et que vous êtes en mesure de transporter!
 * Une petite scie d’élagage (scie rétractable) 
 * cisaille
 * Gants de travail
+* protection solaire
 
 **Pharmacie**
 

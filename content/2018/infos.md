@@ -19,7 +19,7 @@ Gare de La Sarraz, (voir [Carte des lieux](https://framacarte.org/fr/map/cdp2018
 Horaires sur le site des CFF: https://www.sbb.ch/fr/
 
 Pensez au covoiturage pour les derniers kms depuis la gare de la Sarraz. Nous n’organisons pas de navette. 
-Si vous aimez marcher, il y a une balade de 3-4 km jusqu’au Crêt Maunêt (en passant par Pompaples ou par Orny). 
+Si vous aimez marcher, il y a une balade de 3,5 km jusqu’au Crêt Maunêt (en passant par Pompaples ou par Orny). 
 
 ## En covoiturage
 

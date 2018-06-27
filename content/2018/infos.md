@@ -85,9 +85,7 @@ Sortie de l'autoroute, Sion Est. Suivre Ayent Anzère. Arrivé à St Romain, sui
 ## Visites et travail de conception
 
 **Jours à définir selon l’humeur et la météo**
-terrain de recherche de l’Institut Méiose, Luc (Ayent) altitude 952 m
-
-À 5.6 km du chalet des Rousses
+terrain de recherche de l’Institut Méiose, Luc (Ayent) altitude 952 m à 5.6 km du chalet des Rousses
 
 **Mercredi 18 toute la journée** - Les Jardins Permanents 
 Adresse: rdv à la gare de Saint Léonard

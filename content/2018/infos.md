@@ -73,7 +73,7 @@ Rte d'Ogens 35
 
 ## Hébergement
 
-Notre camp de base se situera au chalet des Rousses à 1700 m d’altitude. Nous camperons autour du chalet sous les arbres ou en dortoir pour ceux qui en ont fait la demande (il reste des places pour ceux qui le souhait). Le chalet nous est réservé. Il dispose d’une grande salle commune, d’une cuisine, de sanitaires, douches, d’un coin grillade à l’extérieur. Le Chalet des Rousses se situe à Ayent (Valais central). Endroit idyllique au coeur de la forêt, au pied des alpages. Le bâtiment se trouve sur la route de montagne qui mène au barrage du Rawyl. Point de départ de multiples randonnées, balade sur
+Notre camp de base se situera au chalet des Rousses à 1761 m d’altitude. Nous camperons autour du chalet sous les arbres ou en dortoir pour ceux qui en ont fait la demande (il reste des places pour ceux qui le souhait). Le chalet nous est réservé. Il dispose d’une grande salle commune, d’une cuisine, de sanitaires, douches, d’un coin grillade à l’extérieur. Le Chalet des Rousses se situe à Ayent (Valais central). Endroit idyllique au coeur de la forêt, au pied des alpages. Le bâtiment se trouve sur la route de montagne qui mène au barrage du Rawyl. Point de départ de multiples randonnées, balade sur
 le bisse de Sion. À 15 min à pied vous découvrez le site du barrage du Rawyl, les chutes d'eau de la Lienne, le sentier didactique qui vous promène tout autour du plan d'eau.
 
 Le Chalet des Rousses (altitude 1761m) 

@@ -172,7 +172,7 @@ Chaque stagiaire est autonome. Prévoir selon vos habitudes, mais au minimum:
 **Pour les journées, les nuits et les travaux en extérieur**
 
 * Prévoir vêtements chauds, imperméables, 
-* Lampe torche 
+* Lampe torche ou frontale
 * Chaussettes chaudes
 * Des chaussures imperméables/marche ou de sécurité fermées et résistantes 
 * Des chaussures plus légères
